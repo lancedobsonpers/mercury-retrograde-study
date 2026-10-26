@@ -1,0 +1,678 @@
+provider,code,date,severity,name
+status.cloud.google.com,16003,2016-02-23,medium,Quotas were reset to default values for some Customers
+status.cloud.google.com,16006,2016-02-29,medium,Internal DNS resolution in us-central1
+status.cloud.google.com,16005,2016-02-24,medium,Network Connectivity Issues in Europe-West1-C
+status.cloud.google.com,16004,2016-02-24,medium,Network connectivity issue in us-central1-f
+status.cloud.google.com,16001,2016-01-13,medium,us-central1-c Persistent Disk latency
+status.cloud.google.com,16002,2016-02-03,medium,Connectivity issue in asia-east1
+status.cloud.google.com,15021,2015-09-17,high,App Engine increased 500 errors
+status.cloud.google.com,15006,2015-09-17,medium,Developers Console was loading slowly
+status.cloud.google.com,16029,2015-08-26,medium,Problem with Google Cloud Storage XML API signed URLs
+status.cloud.google.com,16028,2015-08-16,medium,Increased latency and error rates
+status.cloud.google.com,17009,2017-12-14,high,"The issue with the Google App Engine Admin API has been resolved for all affected users as of Thursday, 2017-12-14 12:15"
+status.cloud.google.com,15056,2015-08-13,medium,Google Compute Engine Persistent Disk issue in europe-west1-b 
+status.cloud.google.com,15020,2015-08-12,high,Google App Engine Search API errors and latency
+status.cloud.google.com,16027,2015-08-09,high,High error rate of requests to Google Cloud Storage
+status.cloud.google.com,15055,2015-08-04,high,Google Cloud Compute difficulty reaching internet
+status.cloud.google.com,15005,2015-07-27,high,Developers console showing 404s for some users
+status.cloud.google.com,16008,2016-04-21,medium,"We are investigating a problem with GCE Instances that were created before mid-February in Zones us-central1-b, europe-w"
+status.cloud.google.com,16007,2016-04-12,high,Connectivity issues in all regions
+status.cloud.google.com,18014,2018-07-31,high,Traffic loss in region europe-west2
+status.cloud.google.com,16011,2016-06-29,medium,Compute Engine SSD Persistent disk latency in zone US-Central1-a
+status.cloud.google.com,18023,2016-11-30,high,Increased 500 error rate for BigQuery API calls
+status.cloud.google.com,18022,2016-11-09,high,BigQuery Streaming API failing
+status.cloud.google.com,17012,2016-10-31,high,Issue With Second Generation Cloud SQL Instance Creation
+status.cloud.google.com,18020,2016-10-17,medium,BigQuery query failures
+status.cloud.google.com,16020,2016-10-13,high,502s from HTTP(S) Load Balancer 
+status.cloud.google.com,16034,2016-10-06,low,Elevated Cloud Storage error rate and latency
+status.cloud.google.com,16018,2016-09-20,high,Slow instance start times in asia-east1-a
+status.cloud.google.com,16033,2016-09-10,medium,Google Cloud Storage serving high error rates.
+status.cloud.google.com,17011,2016-08-24,medium,Cloud SQL 2nd generation failing to create new instances
+status.cloud.google.com,16009,2016-05-02,low,Elevated latency for operations on us-central1-a
+status.cloud.google.com,16017,2016-08-22,high,Networking issue with Google Compute Engine services
+status.cloud.google.com,16015,2016-08-05,high,Networking issue with Google Compute Engine services
+status.cloud.google.com,18019,2018-12-19,high,We are investigating an issue with Google Cloud Networking in the zone europe-west1-b. We will provide more information 
+status.cloud.google.com,16014,2016-07-29,medium,HTTP(S) Load Balancing returning some 502 errors
+status.cloud.google.com,18018,2018-11-12,medium,"Connectivity issues connecting to Google services including Google APIs, Load balancers, instances and other external IP"
+status.cloud.google.com,16012,2016-06-29,high,Newly created instances may be experiencing packet loss.
+status.cloud.google.com,16031,2016-05-25,medium,Google Cloud Storage POST errors
+status.cloud.google.com,16010,2016-05-20,medium,Network disruption in us-central1-c
+status.cloud.google.com,18016,2018-10-11,high,"Networking issues in us-central1-c impacting multiple GCP products (Bigtable, Cloud SQL, Datastore, VMs)"
+status.cloud.google.com,18015,2018-09-11,high,We are investigating an issue with Google Cloud Networking in europe-north1-c.
+status.cloud.google.com,17010,2016-05-17,medium,Issues with Cloud SQL First Generation instances
+status.cloud.google.com,18006,2018-11-19,medium,Google Cloud Console project creation broken when enabling APIs for users without organization.
+status.cloud.google.com,18004,2018-12-19,medium,We've received a report of an issue with Google Cloud Storage.
+status.cloud.google.com,18037,2018-06-22,high,We've received a report of an issue with Google BigQuery.
+status.cloud.google.com,18005,2018-12-21,medium,We are currently investigating an issue with Google Cloud Storage and App Engine.  Google Cloud Build and Cloud Function
+status.cloud.google.com,18011,2018-06-05,medium,The issue with Google Networking in South America should be resolved.
+status.cloud.google.com,18003,2018-11-02,medium,Creation of new google cloud functions and update of current one are failing
+status.cloud.google.com,18007,2018-11-19,medium,App Engine Search API is serving a large number of errors.
+status.cloud.google.com,18010,2018-10-23,medium,Failed read requests to Google Stackdriver via the Cloud Console and API
+status.cloud.google.com,18001,2018-08-03,high,"We are investigating an issue with Dialogflow API. We will provide more information by Friday, 2018-08-03 06:30 US/Pacif"
+status.cloud.google.com,18009,2018-08-15,medium,Instances using Local SSD might experience VM failures. This affects GCE VMs globally. No data corruption has been obser
+status.cloud.google.com,18036,2018-05-16,high,Multiple failing BigQuery job types
+status.cloud.google.com,18008,2018-08-03,medium,We are investigating errors activating Windows and SUSE licenses on Google Compute Engine instances in all regions.
+status.cloud.google.com,18002,2018-09-11,medium,Error message when updating Cloud Functions via gcloud.
+status.cloud.google.com,18035,2018-02-15,medium,Bigquery experiencing high latency rates
+status.cloud.google.com,18034,2018-01-25,medium,We are investigating an issue with BigQuery in the US region. We will provide more information by 13:00 US/Pacific.
+status.cloud.google.com,17002,2017-12-15,high,The issue with Cloud Machine Learning Engine's Create Version has been resolved for all affected users as of 2017-12-15 
+status.cloud.google.com,17006,2017-11-30,medium,We are investigating an issue with Google Cloud Storage. We will provide more information by 18:00 US/Pacific.
+status.cloud.google.com,17004,2017-10-06,medium,Elevated GCS errors in us-east1
+status.cloud.google.com,17008,2017-11-08,medium,App Engine increasingly showing 5xx
+status.cloud.google.com,17007,2017-10-03,medium,Project creation failure
+status.cloud.google.com,17018,2017-10-31,medium,We are investigating an issue with Google Cloud SQL. We see failures for Cloud SQL connections from App Engine and conne
+status.cloud.google.com,17005,2017-09-26,medium,Errors creating new Stackdriver accounts and adding new projects to existing Stackdriver accounts.
+status.cloud.google.com,17001,2017-10-09,medium,Elevated Cloud IAM API errors
+status.cloud.google.com,17003,2017-08-08,medium,GCS triggers not fired when objects are updated
+status.cloud.google.com,18033,2017-08-30,medium,We are investigating an issue with BigQuery queries failing starting at 10:15am PT
+status.cloud.google.com,17017,2017-08-16,high,Cloud SQL connectivity issue in Europe-West1
+status.cloud.google.com,18032,2017-07-26,medium,BigQuery Disabled for Projected
+status.cloud.google.com,18031,2017-07-13,medium,BigQuery API server returning errors
+status.cloud.google.com,17016,2017-06-29,medium,Cloud SQL V2 instance failing to create
+status.cloud.google.com,18030,2017-06-29,high,Streaming API errors 
+status.cloud.google.com,18013,2018-11-14,medium,Google Compute Engine instances in asia-southeast1 with IP addresses in 35.247.128.0/18 are unable to make outbound conn
+status.cloud.google.com,18012,2018-11-05,medium,GCE instance creation errors in us-central1-a.
+status.cloud.google.com,18017,2018-10-22,medium,"Google Cloud VPN, Cloud Interconnect, and Cloud Router experiencing packet loss in multiple regions"
+status.cloud.google.com,18038,2018-09-27,medium,We are investigating an issue with Google BigQuery having an increased error rate in the US.
+status.cloud.google.com,19001,2019-12-13,medium,We've received a report of an issue with Cloud Asset Inventory.
+status.cloud.google.com,19008,2019-11-11,medium,We've received a report of an issue with Stackdriver Monitoring.
+status.cloud.google.com,19002,2019-11-11,medium,We've received a report of an issue with Cloud Bigtable.
+status.cloud.google.com,19007,2019-11-11,medium,We've received a report of an issue with Cloud Firestore.
+status.cloud.google.com,19005,2019-11-11,medium,We've received a report of an issue with Cloud SQL.
+status.cloud.google.com,19004,2019-09-04,medium,We've received a report of an issue with Cloud SQL.
+status.cloud.google.com,19003,2019-11-11,medium,We've received a report of an issue with Cloud Memorystore.
+status.cloud.google.com,19016,2019-07-02,medium,Cloud Networking issues in us-east1
+status.cloud.google.com,19015,2019-07-02,medium,Capacity loss in us-east1 region
+status.cloud.google.com,19014,2019-06-26,medium,Cloud VPN endpoints in us-east1 and us-east4 experiencing elevated rates of packet loss.
+status.cloud.google.com,19006,2019-11-11,high,We've received a report of an issue with Cloud Firestore.
+status.cloud.google.com,19013,2019-11-11,medium,We've received a report of an issue with Google App Engine.
+status.cloud.google.com,19012,2019-12-07,medium,Issues with PD-SSD in us-east1-b zone
+status.cloud.google.com,19011,2019-12-04,medium,We are investigating an issue with network connectivity in asia-southest1
+status.cloud.google.com,19010,2019-12-19,medium,Creation of new Cloud Functions is failing in europe-west1 and europe-west2
+status.cloud.google.com,19009,2019-11-11,medium,We've received a report of an issue with Google BigQuery.
+status.cloud.google.com,19017,2019-08-16,medium,We are investigating an intermittent networking issue
+status.cloud.google.com,19019,2019-09-13,medium,We are investigating elevated errors with Cloud Interconnect in Google Cloud Networking in us-west2.
+status.cloud.google.com,19018,2019-08-27,medium,Internal load balancers in us-east1 not updating
+status.cloud.google.com,19022,2019-11-11,medium,We've received a report of an issue with Cloud Networking.
+status.cloud.google.com,19021,2019-10-31,medium,We've received a report of issues with Google Cloud Networking.
+status.cloud.google.com,19020,2019-10-22,high,We've received a report of an issue with Cloud Networking.
+status.cloud.google.com,19023,2019-12-19,medium,Regional network issue
+status.cloud.google.com,20002,2020-06-29,medium,We are experiencing an issue with Cloud Memorystore in us-east1-c and us-east1-d.
+status.cloud.google.com,20001,2020-07-21,high,Customers May be Unable to Create Support Cases via the Cloud Console
+status.cloud.google.com,20003,2020-04-06,medium,BigQuery serving INTERNAL_ERROR in EU region
+status.cloud.google.com,20005,2020-04-08,high,We are investigating an issue with elevated error rates across multiple Google Cloud Platform Services
+status.cloud.google.com,20004,2020-06-29,medium,We are experiencing an issue with Google Compute Engine in us-east1-c and us-east1-d
+status.cloud.google.com,20009,2020-07-30,medium,We are experiencing an issue with Google Compute Engine instances running RHEL and CentOS 7 and 8. Instances running RHE
+status.cloud.google.com,20008,2020-07-28,medium,Issue with Compute Engine API
+status.cloud.google.com,20007,2020-07-23,medium,Cloud Networking L7 Load Balancers May Be Serving Stale Configurations
+status.cloud.google.com,20006,2020-07-02,medium,We are experiencing issues with creation of new Google Cloud Load Balancers and updates to existing ones.
+status.cloud.google.com,20010,2020-09-25,medium,We are experiencing an issue with multiple GCP products.
+status.cloud.google.com,20011,2020-10-30,medium,GCE instance creation/start/stop operations failing in us-central1-f
+status.cloud.google.com,20012,2020-11-10,medium,Elevated frequency of Host Maintenance events on GCE instances with an attached GPU(s) and SSD(s)
+status.cloud.google.com,20013,2020-12-10,medium,Cloud GCE resources may be unreachable in europe-west2-a
+status.cloud.google.com,21001,2021-01-08,high,Cloud L7 (HTTP) External LB configuration changes propagating with high latency
+status.cloud.google.com,21002,2021-01-19,medium,We are experiencing network latency in us-central1 and us-east1
+status.cloud.google.com,21004,2021-02-18,medium,We are experiencing an issue with Cloud SQL instances in us-central1 starting at 12:13 US/Pacific.
+status.cloud.google.com,21003,2021-02-12,medium,"Our engineers have determined this issue to be linked to a single Google incident.  For regular status updates, please v"
+status.cloud.google.com,21006,2021-03-17,high,Increased latency and packet loss
+status.cloud.google.com,21005,2021-03-04,medium,Increased latency and possible partial results when listing Cloud SQL instances in us-central1 and us-east1
+status.cloud.google.com,JgHvEDeZw4W2Yo7of8oT,2021-05-05,medium,Customer may experience high traffic loss across Cloud Interconnects located in us-west2
+status.cloud.google.com,DtJPnaHo1ivRDnCCAqKU,2021-05-05,medium,Cloud VPN gateways located in us-west2 may be unreachable and experience high traffic loss
+status.cloud.google.com,pfqhuuw5jMhMkPfqd5WC,2021-05-05,medium,Requests to and from Google Kubernetes Engine Instances in us-west2 may see increase traffic loss when using the instanc
+status.cloud.google.com,pxD6QciVMd9gLQGcREbV,2021-05-05,medium,Requests to and from Google Compute Instances in us-west2 may see increase traffic loss when using the instance's public
+status.cloud.google.com,eCPQKkKcFy6NYXExnPXL,2021-05-04,medium,Customers may experience traffic loss across multiple products with requests destined to and from us-west2
+status.cloud.google.com,Fmkbw7dfD3MQBbAcFXJu,2021-05-04,medium,We are experiencing an issue with Cloud Shell
+status.cloud.google.com,6wryTfuzefvshsv4Pdkn,2021-03-24,medium,Customers may experience increased failures when executing Cloud Tasks scheduler jobs in us-central1.
+status.cloud.google.com,RD6r1QSBrxeKUW58g4pC,2021-03-23,medium,"Cloud Logging Ingestion delay, causing logs to be delayed."
+status.cloud.google.com,X3wpirSoeRTxHzn3nHFC,2021-03-17,high,Increased latency and packet loss
+status.cloud.google.com,DowHEw8KSxHtUD64kPZD,2021-03-08,medium,We are investigating a potential issue with Cloud Shell
+status.cloud.google.com,kkASrXRsPs9HS1SuiT4J,2021-03-08,medium,We are investigating an issue with Cloud Networking
+status.cloud.google.com,LxxBg5BwMtL5e53jD3JC,2021-03-04,medium,Increased latency and possible partial results when listing Cloud SQL instances in us-central1 and us-east1
+status.cloud.google.com,jhaWLwL7NZzmvYvdxCYE,2021-02-24,medium,Cloud Armor Configuration Updates Are Delayed
+status.cloud.google.com,WeoK9qvwzGUoTWHMgYUk,2021-02-24,medium,"External HTTP(S) Load Balancers can't be created, updated, and deleted."
+status.cloud.google.com,oAcLVpmWPCrxm3enrP4A,2021-02-24,medium,Newly ingested logs may be delayed before being accessible in Cloud Logging
+status.cloud.google.com,QAxXBHLQZey4U51kfV7m,2021-02-19,medium,We are experiencing an intermittent issue with Google Kubernetes Engine creation
+status.cloud.google.com,WxVPiSW1m63mFsYSv2LW,2021-02-18,medium,"Google App Engine Flex deployments are seeing increased errors in us-central1, us-east1 and us-east4, us-west3, europe-w"
+status.cloud.google.com,rf3TWPFD9xQxK7eXZX2K,2021-02-18,medium,"Cloud Function deployments are seeing increased errors in us-central1, us-east1 and us-east4"
+status.cloud.google.com,8PE2WjKBY7g4bVzMQfab,2021-02-18,medium,The issue with Google Compute Engine VM instance creation and deletion is partially resolved as of 15:14 US/Pacific.
+status.cloud.google.com,N6p8aF8qA3xcehTB6pPZ,2021-02-18,medium,We are experiencing an issue with Cloud Filestore in us-central1 starting at 12:13 US/Pacific.
+status.cloud.google.com,UK3LcXtsL7sW9g8TZkJM,2021-02-18,medium,We are experiencing an issue with Cloud AI in us-central1 starting at 12:13 US/Pacific.
+status.cloud.google.com,hY79QaoMeJj48m2SXvmB,2021-02-18,medium,We are experiencing an issue with Google Kubernetes Engine in us-central1 starting at 12:13 US/Pacific.
+status.cloud.google.com,dTWWxQj3YWmTvK1X8hE3,2021-02-18,medium,We are experiencing an issue with Cloud Dataproc in us-central1 starting at 12:13 US/Pacific.
+status.cloud.google.com,HQ2CbcaHVXG6HHCnAchB,2021-02-18,medium,We are experiencing an issue with Cloud SQL instances in us-central1 starting at 12:13 US/Pacific.
+status.cloud.google.com,bWW1KUmjBhZWnE9cHWfV,2021-02-18,medium,We are experiencing an issue with Cloud Memorystore in us-central1 starting at 12:13 US/Pacific.
+status.cloud.google.com,tqwPWZHj8thosqR5MJkp,2021-02-12,medium,"The issue with network configuration propagating for Cloud Networking VPN, Network Load Balancer VIPs, and VM Instances "
+status.cloud.google.com,vUyXMVpQyAe9ibYnYcCG,2021-02-12,medium,"We are experiencing an issue with Google Cloud infrastructure components, beginning at Friday, 2021-02-12 14:50 US/Pacif"
+status.cloud.google.com,baKKdbZ1M1We5j6y2G9k,2021-02-12,medium,"Our engineers have determined this issue to be linked to a single Google incident. For regular status updates, please vi"
+status.cloud.google.com,jmQo7Yt8Rhb7Bvb7itmF,2021-02-12,medium,"Our engineers have determined this issue to be linked to a single Google incident. For regular status updates, please vi"
+status.cloud.google.com,PQE98n5aGQZ2gVWJqwi3,2021-02-12,medium,"Our engineers have determined this issue to be linked to a single Google incident. For regular status updates, please vi"
+status.cloud.google.com,b3FNY44ruufUfCNBPvKQ,2021-02-12,medium,"Our engineers have determined this issue to be linked to a single Google incident. For regular status updates, please vi"
+status.cloud.google.com,aVUuw5cr7iMM6UbuwyYb,2021-02-12,medium,"Our engineers have determined this issue to be linked to a single Google incident. For regular status updates, please vi"
+status.cloud.google.com,QjGHpZrwAdM9i91v1QUy,2021-02-12,medium,"Our engineers have determined this issue to be linked to a single Google incident. For regular status updates, please vi"
+status.cloud.google.com,PdFyr6FwVot63cx6Pcrs,2021-02-12,medium,"Our engineers have determined this issue to be linked to a single Google incident. For regular status updates, please vi"
+status.cloud.google.com,exT9bwgm4CvWu7MzydD3,2021-02-12,medium,"Our engineers have determined this issue to be linked to a single Google incident. For regular status updates, please vi"
+status.cloud.google.com,zpowCsUWo6sthoEFHA7n,2021-02-11,medium,Cloud Datastore experiencing increased error rates and latencies for operations for data in the US multi-region
+status.cloud.google.com,9K8w3ZFKk26vNrQ8xE9v,2021-02-11,medium,Cloud Firestore experiencing increased error rates and latencies for operations for data in the US multi-region
+status.cloud.google.com,p1HfB8trCBdxqeJbw65U,2021-02-11,medium,Google BigQuery experiencing increased error rates and latencies for queries for data in the US multi-region
+status.cloud.google.com,sJhprF3We9rWuxTKw5vK,2021-02-11,medium,Cloud BigTable is experiencing increased error rates and latencies for operations on data in us-central1-c.
+status.cloud.google.com,v8QDroZPzjQyHy7RZrJS,2021-02-06,medium,Google App Engine services in multiple regions may experience errors
+status.cloud.google.com,B3eZWtirMMLwJRYsozyG,2021-02-02,medium,GKE cluster operations may fail in various regions.
+status.cloud.google.com,mq2rNnCsyYif8ywgtwpb,2021-01-29,medium,The issue with Cloud SQL API instance mutations and SQL Proxy operations in us-central1 has partially recovered
+status.cloud.google.com,PjPBzVQtSNRu5eRMZfn7,2021-01-21,medium,We are experiencing an issue with Cloud DNS CNAME chasing in multiple zones.
+status.cloud.google.com,dHFNjgMMggHELFKKkmBN,2021-01-19,medium,We are experiencing network latency in us-central1 and us-east1
+status.cloud.google.com,qnbPenZy16YDykptsWFG,2021-01-15,medium,We are experiencing an issue with Cloud Interconnect
+status.cloud.google.com,YPWAM5jUMNAsEdt8hp8Z,2021-01-14,medium,"We are experiencing an issue with Cloud SDK Versions 321, 322 and 323 Installed on Windows."
+status.cloud.google.com,eT1dA2td4ma8nqwBbAoT,2021-01-08,high,Cloud L7 (HTTP) External LB configuration changes propagating with high latency
+status.cloud.google.com,nGFv79FDfTbWfKU2aHRK,2020-12-15,medium,Cloud Router: metrics missing
+status.cloud.google.com,cFXPsFUnUELR8U2bQeGz,2020-12-14,high,Google Cloud services are experiencing issues and we have an other update at 5:30 PDT
+status.cloud.google.com,Ndnndvsprwu1dmRpbx2d,2020-12-10,medium,Cloud Dataflow resources in europe-west2-a may be unreachable
+status.cloud.google.com,jM6nNd971RMAcuufDBee,2020-12-10,medium,Cloud SQL instances in europe-west2-a may be unreachable
+status.cloud.google.com,zvkLF2ESXcD13Xd9VD4f,2020-12-10,medium,Cloud GCE resources may be unreachable in europe-west2-a
+status.cloud.google.com,WEvPzYGLJV1ddhYzwSqz,2020-12-10,medium,Cloud Memorystore resources may be unreachable in europe-west2-a
+status.cloud.google.com,qRpmq9arsrCV7xWdfftF,2020-12-10,medium,All Cloud Platform resources in europe-west2-a may be unreachable as of 2020-12-09 18:32 US/Pacific.
+status.cloud.google.com,3K3wmdKmCy6rrZP17WkR,2020-12-04,high,"We are experiencing an intermittent issue with Cloud Firestore beginning at Friday, 2020-12-04 12:09:08 US/Pacific."
+status.cloud.google.com,66MjQZfhHT5g9DQaAsU5,2020-12-04,medium,Increased error rate seen for Queries to Cloud Logging.
+status.cloud.google.com,Y2KZfZgry3aKPWdpu8PN,2020-11-19,medium,Cloud Logging delays on log ingestion affecting 25% of projects.
+status.cloud.google.com,F3ynGAM65bztYcpXm47U,2020-11-17,medium,Storage Transfer Service unable to edit job configurations
+status.cloud.google.com,u1KnEuW3YbVThbYSS6NZ,2020-11-12,medium,"We are experiencing an issue with loading several pages in the Cloud Console, including modifying External HTTP(S) Load "
+status.cloud.google.com,XEVideuyoH5ey3k1Ea6D,2020-11-10,medium,Elevated frequency of Host Maintenance events on GCE instances with an attached GPU(s) and SSD(s)
+status.cloud.google.com,CYJJtJjLoKE24P3cY5Sj,2020-11-05,high,GAE Cloud Monitoring Metrics are not being ingested.
+status.cloud.google.com,w9cZh4SAJwJkJFEFoU8K,2020-10-30,medium,GCE instance creation/start/stop operations failing in us-central1-f
+status.cloud.google.com,5NBzNV3qbEcok9mxQzTt,2020-10-29,medium,"We believe the issue with Cloud Run deployments failing is fully resolved as of Thursday, 2020-10-29 14:07."
+status.cloud.google.com,7rMydYAN8YKtsxyzF2wj,2020-10-27,medium,"We've received a report of an issue with Google Cloud Storage as of Tuesday, 2020-10-27 11:00 US/Pacific."
+status.cloud.google.com,GuPZryLqT4zkmR8kKm4Z,2020-10-24,medium,We are investigating an elevated error rate in us-east1 for Cloud Storage Customers.
+status.cloud.google.com,o7iZ5G548ApGXoyeimGu,2020-10-23,medium,Some deployments to Google Cloud Functions using go113 runtime are failing
+status.cloud.google.com,3gQTXFNuxBfN4GBr2RAY,2020-10-23,medium,We're experiencing an issue with gcloud auth application-default login.
+status.cloud.google.com,dheHaUyFjoLWXD5Wp4hD,2020-10-20,medium,We are experiencing an issue with Google Kubernetes Engine in us-central1.
+status.cloud.google.com,VoJNub6ejZ5iFurC73G6,2020-10-19,medium,We are currently experiencing an issue with Google Kubernetes Engine customers experiencing elevated rates of packet los
+status.cloud.google.com,rJd67S2k8JaG8FPKg3u7,2020-10-19,medium,We are currently experiencing an issue with Google Compute Engine customers experiencing elevated rates of packet loss i
+status.cloud.google.com,EzN2YDriBp8LFTwqL2kY,2020-10-19,medium,"We've received a report of an issue with Cloud Bigtable as of Monday, 2020-10-19 13:18:57 PDT"
+status.cloud.google.com,6ikDZn3BFFXjkDERZiWV,2020-10-19,medium,Google Cloud Storage customers making requests to southamerica-east1 will experience elevated error rates due to the ong
+status.cloud.google.com,yW4fTce2iKW8XkG6Q4Ln,2020-10-19,medium,"We are experiencing an issue with Cloud Networking beginning in the southamerica-east1 region starting at Monday, 2020-1"
+status.cloud.google.com,BVe3XidYYNAR5z1bAw6u,2020-10-07,medium,We are currently working to mitigate the issue of Cloud Composer create/update environment requests failing in asia-nort
+status.cloud.google.com,UkaG5TY2UnYu2nu3QJHE,2020-10-06,medium,App Engine Standard returning elevated HTTP 500 errors in us-central1
+status.cloud.google.com,yGJ84NxvpdTvCLCQ1eUu,2020-10-06,medium,Cloud ML was experiencing elevated errors
+status.cloud.google.com,67gYtuFkhRTh1pLtJGLp,2020-10-06,medium,Cases failing to load in Cloud Console or Google Support Center
+status.cloud.google.com,tjzyw7WyEhtMfSy52GyF,2020-09-25,medium,"We are experiencing an issue with Cloud Logging beginning at Friday, 2020-09-25 06:50 US/Pacific. Symptoms are increased"
+status.cloud.google.com,gumoYCjdcDXv8xxmLBaW,2020-09-25,medium,We are experiencing an issue with multiple GCP products.
+status.cloud.google.com,PXr1pcud4NBAN6wnTyAz,2020-09-25,medium,We are experiencing an issue with Cloud KMS.
+status.cloud.google.com,vyu9LMTy4r87GehRH7B4,2020-09-25,medium,We are experiencing an issue with Cloud Networking.
+status.cloud.google.com,PKhasmT8Rn1hevQUoCTv,2020-09-25,medium,We are experiencing an issue with Cloud Run.
+status.cloud.google.com,tEA5oT681iGwzNTT1yXa,2020-09-25,medium,We are experiencing an issue with Cloud SQL.
+status.cloud.google.com,YHqxsYdVr8A4hZTBBQu7,2020-09-25,medium,We are experiencing an issue with Cloud Logging and Cloud Monitoring.
+status.cloud.google.com,a3SJ5ueGVTX552VkN8oF,2020-09-25,medium,We are experiencing an issue with Google Kubernetes Engine
+status.cloud.google.com,TNAJyPwGkJYgSiqxcqsR,2020-09-25,medium,We are experiencing an issue with Cloud Spanner.
+status.cloud.google.com,hyfBtk7CBH2zLcJLcSXz,2020-09-25,medium,We are experiencing an issue with Firestore.
+status.cloud.google.com,CPaCHnswG1BiQUNjXDXk,2020-09-24,medium,Cloud Shell Connectivity Issues in asia-southeast1 and an issue with the Pricing UI not loading for some billing account
+status.cloud.google.com,TTNCub9EAPfZJoEqv8LL,2020-09-22,medium,We have received reports of an issue with the BigQuery UI
+status.cloud.google.com,sUt728CvnJSgfgdMRMW1,2020-09-18,high,"Cloud Console pages with prefix of :*/billing/:accountId/"" are returning errors"
+status.cloud.google.com,MKjPPx6X36QdeJj6woHV,2020-09-18,medium,We are experiencing an issue with Bigtable in asia-east2
+status.cloud.google.com,m5C5gfZdwAnxPLAUSh4i,2020-09-18,medium,We are experiencing an issue with Cloud Run in asia-east2
+status.cloud.google.com,8cz3Ao5n9sgHxi4zWe6h,2020-09-18,medium,We are experiencing an issue with Secret Manager in asia-east2
+status.cloud.google.com,H3rHCfdz7vhzziruD6wD,2020-09-18,medium,We're experiences issues with Google Cloud infrastructure in asia-east2
+status.cloud.google.com,mJHu2TnrKebAZEuD3cws,2020-09-18,medium,We are experiencing an issue with Cloud Spanner in asia-east2
+status.cloud.google.com,zRVhzZpkbx55m9sCphuE,2020-09-18,medium,We are experiencing an issue with Cloud KMS in asia-east2
+status.cloud.google.com,XtTzoUnxzULWzrsmar8N,2020-09-18,medium,We are experiencing an issue with Cloud Tasks in asia-east2
+status.cloud.google.com,scfk5REncxdXrjLdFjgW,2020-09-18,medium,We are experiencing an issue with Cloud Pub/Sub in asia-east2
+status.cloud.google.com,hesFNrska6evGKChvR5c,2020-09-18,medium,We are experiencing an issue with Cloud Identity & Access Management in asia-east2
+status.cloud.google.com,Ryw1Yqos76c6HHgNmeAE,2020-09-18,medium,We are experiencing an issue with Cloud SQL in asia-east2
+status.cloud.google.com,59PXWSAywamzTx2taRf9,2020-09-18,medium,We are experiencing an issue with Cloud Functions in asia-east2
+status.cloud.google.com,tXNoajNSYP3EiDguKNSE,2020-09-18,medium,We are experiencing an issue with Cloud Memorystore in asia-east2
+status.cloud.google.com,G5fNjHLFqiCgiJkXKQed,2020-09-18,medium,We are experiencing an issue with App Engine in asia-east2
+status.cloud.google.com,mnGUDGZA6amHeLVaWh4r,2020-09-18,medium,We are experiencing an issue with BigQuery in asia-east2
+status.cloud.google.com,BUbyrbzSVR5EQScemTCr,2020-09-18,medium,We are experiencing an issue with GKE in asia-east2
+status.cloud.google.com,xyp84srjXQyRLBhreV1J,2020-09-18,medium,An issue with Datastore in asia-east2 has been resolved
+status.cloud.google.com,Lhb1sgaCLTwQ9fo5vHgY,2020-09-18,medium,An issue with Firestore in asia-east2 has been resolved
+status.cloud.google.com,w1sMLXwN9R3NK46UEZAx,2020-09-18,medium,An issue with Cloud Healthcare API in asia-east2 has been resolved
+status.cloud.google.com,EXdko5kacLvK4bTtXyLo,2020-08-27,medium,Cloud Security Command Center is experiencing latency and timeouts for configuration view or update requests
+status.cloud.google.com,Pizz4xBxDruzDCzCEi4L,2020-08-20,medium,We are experiencing issues with Cloud Logging
+status.cloud.google.com,iJFNcVshEMompeapBzkw,2020-08-20,high,We are experiencing issues across multiple GCP products
+status.cloud.google.com,ghFgQxHfNQgM7sHzLuPa,2020-08-20,medium,"We are experiencing issues with Google App Engine, increased error rate for instance creation"
+status.cloud.google.com,HmwHmboLvH4vBZijFwhk,2020-08-20,medium,We are experiencing issues across multiple GCP products caused by an issue
+status.cloud.google.com,sW1p3j4ERCqQH9UbTZwz,2020-08-20,medium,We are experiencing issues across multiple GCP products caused by an issue
+status.cloud.google.com,MZbJnKFyrSZT6aBx9nY8,2020-07-30,medium,We are experiencing an issue with Google Compute Engine instances running RHEL and CentOS 7 and 8. Instances running RHE
+status.cloud.google.com,X6z12AtyDp5pay4JCQje,2020-07-29,medium,We believe the issue of connectivity loss affecting Cloud Networking in us-central1 has been resolved for all affected c
+status.cloud.google.com,DoptkjthibSV5YpKu5wb,2020-07-28,medium,Issue with Compute Engine API
+status.cloud.google.com,jD1aNoRDSBuac8HiU5GU,2020-07-23,medium,Google BigQuery is currently experiencing an elevated rate of job failures.
+status.cloud.google.com,XRHzLAf7bexbdhGz17jB,2020-07-23,medium,We are experiencing an issue affecting multiple Cloud services.
+status.cloud.google.com,KBUahq1HRGmeKwK6tHeW,2020-07-23,medium,We are experiencing an issue with Cloud Monitoring.
+status.cloud.google.com,X7LqRbxXkDQnNvL6upJf,2020-07-23,medium,We were experiencing an issue affecting multiple Cloud services.
+status.cloud.google.com,3LXVbjqbqZJ8GLxBsX8k,2020-07-23,medium,We are experiencing an issue affecting multiple Cloud services.
+status.cloud.google.com,nWEFYXaw1mLgLLmJM3kj,2020-07-23,medium,Cloud Networking L7 Load Balancers May Be Serving Stale Configurations
+status.cloud.google.com,faUsJfwqZfaph684eTPQ,2020-07-23,medium,BigQuery is Experiencing Elevated Latencies and Error Rates
+status.cloud.google.com,6oHLSUeZN1y3kcV1RtW8,2020-07-22,medium,We're experiencing an issue with Google Cloud Support system
+status.cloud.google.com,CGLnxiowz3P3W1K1u1CL,2020-07-21,high,Customers May be Unable to Create Support Cases via the Cloud Console
+status.cloud.google.com,j8XytBcBDiYnNSBdDtoN,2020-07-15,medium,New Dataproc Deployments May Time Out and Fail
+status.cloud.google.com,QTt2LQoX7Ki9734k9bef,2020-07-15,medium,New App Engine Deployments May Time Out and Fail
+status.cloud.google.com,5djDgX6iFJMYuE9tZmMx,2020-07-15,medium,Cloud Data Fusion Deployments May Time Out and Fail
+status.cloud.google.com,ALmayks9yCxTYUUo4j9V,2020-07-15,medium,GKE Operations which Create or Delete VMs May Fail or Experience Elevated Latencies
+status.cloud.google.com,gGqsesj83A4e9fudGLrd,2020-07-15,medium,New Cloud Function Deployments May Time Out and Fail
+status.cloud.google.com,X2EZWtCPyrLBrUwLLd5m,2020-07-15,medium,Issue creating and deleting Compute Engine instances
+status.cloud.google.com,2sXRtpNcuRyykVxDQ8z5,2020-07-02,medium,We are experiencing issues with creation of new Google Cloud Load Balancers and updates to existing ones.
+status.cloud.google.com,GNWiNop2AzUHCe3fTTsE,2020-06-29,medium,GKE Clusters in us-east1c may be unavailable
+status.cloud.google.com,iFfyUM2iKWUgKETxigJx,2020-06-29,medium,We are experiencing an issue with Cloud Memorystore in us-east1-c and us-east1-d.
+status.cloud.google.com,fgNw3qR1iQ14ijqp8fgH,2020-06-29,medium,We are experiencing an issue with Google Compute Engine in us-east1-c and us-east1-d
+status.cloud.google.com,Wb97fPsnE5VdLaKDcAeP,2020-06-29,medium,We are experiencing an issue with Cloud Networking in us-east1-c and us-east1-d
+status.cloud.google.com,dfKXDfd2R5XeiiB5ctV4,2020-06-29,medium,We are experiencing issues with Google Compute Engine Autoscaling in us-east1-c
+status.cloud.google.com,HU4hHMTWVXLBpo8gJL21,2021-05-21,medium,Unavailability of streamed data in Google BigQuery in europe-west2.
+status.cloud.google.com,B7cMek751d8KtnSn9gdZ,2021-05-20,medium,External HTTP Load Balancer and Cloud Armor configuration changes are being delayed
+status.cloud.google.com,bhMb6ab2NNyBPFCaUhgV,2021-05-20,high,Issue with multiple Google Cloud infrastructure components.
+status.cloud.google.com,sqeWSRmcrJZyE2zSrJ74,2021-05-17,medium,We are experiencing a global issue with creation and upgrades of GKE Clusters
+status.cloud.google.com,hoW7kWQnQ6jK9E3sBAg5,2021-05-16,medium,Cloud Build: builds fail trying to fetch git repositories from GitHub
+status.cloud.google.com,T7DBhv3wmrXMKVfTnkDB,2021-05-13,medium,Composer environment creation fails in all regions
+status.cloud.google.com,7HGDRYTQ2qmB14Bmp41A,2021-05-13,medium,Customers may see excessive delays or errors when attempting to deploy App Engine Flex instances globally
+status.cloud.google.com,1Mp2HBfzu8gjVw8BEXGH,2021-05-13,medium,Deplyoing or updating Cloud Load Balancers may be slow globally
+status.cloud.google.com,VVJnin9xh36NeBQ7Ut3c,2021-05-11,medium,[Fully Resolved] We are investigating an issue with Google Cloud Support case creation and email notifications for new c
+status.cloud.google.com,bqmX2EZrwgkPwZxutSk6,2021-06-23,medium,High latency and increased error rates in northamerica multi-region.
+status.cloud.google.com,N6EJou2rCwoEt8nowd2o,2021-06-21,medium,"We are experiencing an issue with Cloud Monitoring beginning at Monday, 2021-06-21 00:00 US/Pacific."
+status.cloud.google.com,YtfZu9rttTf5zDYGe57n,2021-06-20,medium,"Persistent Disk SSD creation is failing in us-east1-{b,c,d}, us-east4-{a,b}, us-west1-c and us-west4-a. This may impact "
+status.cloud.google.com,WiE4YhHnn4BQx5kveiUp,2021-06-17,high,"Cloud Alerting users cannot receive notifications via Vespa, Webhook, Slack, or Pagerduty"
+status.cloud.google.com,ysdpNCkMDUgpG41cxBSD,2021-06-11,medium,Some BigQuery queries fail with RESOURCE_EXCEEDED errors
+status.cloud.google.com,EdoHcVkqXbPQmz3qYtqb,2021-06-11,medium,Queries fail with RESOURCE_EXCEEDED
+status.cloud.google.com,BDp83RWqaNczjhf2XcTF,2021-06-11,medium,Talent solutions view is unavailable in Cloud Console
+status.cloud.google.com,en1JzQ5fFdXvJBidW8D6,2021-06-08,medium,"We are experiencing an issue with Cloud Firestore beginning at Monday, 2021-06-07 22:04 US/Pacific."
+status.cloud.google.com,LGFBxyLwbh92E47fAzJ5,2021-08-01,medium,Mutliregional Price for E2 Free Tier core is set incorrectly
+status.cloud.google.com,ZJoBx7kocBokFxS1ZN5p,2021-07-29,medium,Multi-region: Accessing Component Gateway fails with 400 (Bad Request). Unable to access clusters details page after clu
+status.cloud.google.com,MfiGCW4E26MPGRnCJ8by,2021-07-27,medium,us-central1: GCS is returning stale version of object for bucket
+status.cloud.google.com,txaxJMs7eNMV5cHwgfRP,2021-07-27,medium,Global: Cloud Logging Query timing out
+status.cloud.google.com,eJ8bnwiB1kQXo8fet4Zg,2021-07-27,medium,Global: Cloud Scheduler Pub/Sub jobs fail with permission denied
+status.cloud.google.com,FB2c3B9EAS7JA1mHgth1,2021-07-27,medium,HTTP load balancing returning error for some user in Europe.
+status.cloud.google.com,UPG5wxRnLGjqqVFMW7Kq,2021-07-27,medium,Issue resolved: HTTP load balancing returning error for some users in Europe.
+status.cloud.google.com,fEXXEicMtx5SaVZz2Gt7,2021-07-22,medium,Global: Cloud Scheduler Pub/Sub jobs fail with permission denied
+status.cloud.google.com,WXwFb7tx1XvHyGaxwdYs,2021-07-07,high,"Increased latency in North America Regions for Cloud Datastore queries. Previous posts mention Google Cloud Firestore, u"
+status.cloud.google.com,5yL8cbrpS3ssbYjRZQJv,2021-08-31,medium,Global: Cloud Pubsub experiencing elevated latencies and failures.
+status.cloud.google.com,sBT6tcw8bxRArf6Jw19o,2021-08-31,medium,Global: Dataflow Streaming jobs that interact with PubSub are experiencing failures.
+status.cloud.google.com,XnB6ncPMYd3Tei7XcCE1,2021-08-26,medium,"Cloud Logging experiencing issue returning results for ""tail"" commands globally"
+status.cloud.google.com,A27EJTBQ6anaCdeNX6zp,2021-08-26,medium,"GKE service is unaffected. Mitigation for issue with Anthos On-Prem admin workstation access, is underway. See further d"
+status.cloud.google.com,vcRkm91DVuWNGWMw9w84,2021-08-25,medium,"Google Cloud Dataflow elevated errors starting new or querying existing dataflow jobs in us-west1, asia-east1, asia-nort"
+status.cloud.google.com,TSaW8RCnLss2ob5fM2t5,2021-08-24,medium,We are experiencing a connectivity issue affecting Google Cloud Storage in australia-southeast2
+status.cloud.google.com,ZzoChnVNAqbWBKC4wcAP,2021-08-24,medium,We are experiencing a connectivity issue affecting Cloud Bigtable in australia-southeast2
+status.cloud.google.com,FWZV7AXUH99PsLc9Eywr,2021-08-24,medium,We are experiencing a connectivity issue affecting Cloud Memorystore in australia-southeast2
+status.cloud.google.com,LccZqKpFkxnBijMvQFU3,2021-08-24,medium,We are experiencing a connectivity issue affecting Cloud Pub/Sub in australia-southeast2
+status.cloud.google.com,pYnCSa67rJ3Q5FrXxPHg,2021-08-24,medium,We are experiencing a connectivity issue affecting Cloud access policy in australia-southeast2
+status.cloud.google.com,1LczkFcPKVVPUEw6XBf7,2021-08-24,medium,We are experiencing a connectivity issue affecting Persistent Disk in australia-southeast2
+status.cloud.google.com,8aPfN89nkeWJVui93StH,2021-08-24,medium,We are experiencing a connectivity issue affecting Google Kubernetes Engine in australia-southeast2
+status.cloud.google.com,wNRZfELPApTbYeBrVTRy,2021-08-24,medium,We are experiencing a connectivity issue affecting Cloud SQL in australia-southeast2
+status.cloud.google.com,RPBQJ6t6qkJGkKG21Quv,2021-08-24,medium,We are experiencing a connectivity issue affecting Cloud Dataproc in australia-southeast2
+status.cloud.google.com,NJJp8jkNzFStMyiJZWWD,2021-08-24,medium,"The issue with Cloud Networking has been resolved for all affected users as of Monday, 2021-08-23 20:41:13 PDT.
+We thank"
+status.cloud.google.com,9FtLfPznLEsy2pwmzfYp,2021-08-24,medium,Connectivity issues affecting BigQuery in australia-southeast2.
+status.cloud.google.com,8DhiwfKvD987f5tJrj1G,2021-08-24,medium,Google Cloud infrastructure components faced issues in australia-southeast2 starting 2021-08-23 19:50 PDT. Most of the s
+status.cloud.google.com,QEcZsLuW9bqYZggLZXgS,2021-08-19,medium,We experienced performance issues with Cloud Dataflow between 2021-08-18 20:40 Pacific Time to 2021-08-19 01:40 Pacific 
+status.cloud.google.com,CWYZQhBtU4sf2cYJ8AAf,2021-08-18,medium,The issue with Cloud Logging has been resolved for all affected projects.
+status.cloud.google.com,9hh2XPBVqqem4DxXZxui,2021-08-16,medium,Cloud Router creations are failing in southamerica-east1
+status.cloud.google.com,yC6jA5p6Taoij6pPgSSW,2021-08-06,high,Elevated error rate across all monitoring API endpoints globally
+status.cloud.google.com,f8NTn1ZFA4vXTd3CHQgw,2021-08-06,medium,Significant packet loss on Cloud Interconnect in europe-west2 for some customers.
+status.cloud.google.com,oNMgU4ZjJFCiFTfeMyDX,2021-08-06,medium,"We've been informed that Cloud Networking, and Load Balancer, are not functioning in europe-west2"
+status.cloud.google.com,ty5QqQdPZaypH55Mifkz,2021-10-05,medium,Global: Jobs failing with internal error for GKE version 1.18
+status.cloud.google.com,QSirAFiyN5yMeeE6GNxq,2021-09-27,medium,Global: We have identified a Networking connectivity issue that impacts Docker workloads inside GKE and potentially GCE.
+status.cloud.google.com,E18Caoo5X1m6dTa1PVr1,2021-09-22,medium,"We experienced an issue with Cloud Console where customers observed warning notifications related to payment method, beg"
+status.cloud.google.com,AQ2XT5utr5zovdxoE64s,2021-09-22,medium,Google Engineers identified an issue with Cloud Build Github Pull Request Triggers.
+status.cloud.google.com,rjF86FbooET3FDpMV9w1,2021-09-17,medium,Increased VM failure rates in a subset of Google Cloud zones
+status.cloud.google.com,nkUtGfx3WQcAB1iLEtcd,2021-09-13,medium,Global: Cloud Networking connectivity issues for customers using packet mirroring.
+status.cloud.google.com,SDkKgEgDZJCrvutAz3bn,2021-09-09,medium,"europe-central2, europe-west3: Elevated error rates for GKE control plane"
+status.cloud.google.com,mRTeQ94fZRLdx2Q7NLLX,2021-09-07,medium,"Regions: (Asia, Western US) <-> (Eastern US, Europe). Packet loss on inter region traffic."
+status.cloud.google.com,uaRinwS8pu2yyjdYbDaM,2021-09-07,medium,us-central1: Google App Engine Standard experiencing increased latency and pending queue aborted error request rate.
+status.cloud.google.com,16SSwVXrYSLjy8fEMvyZ,2021-09-07,medium,us-central1: Cloud Functions experiencing increased latency and pending queue aborted error request rate.
+status.cloud.google.com,WzDzgmTjQfAKPJha6Rbb,2021-09-03,medium,europe-west2-c: Cloud networking is currently experiencing issues.
+status.cloud.google.com,9dSqbyLnq9ALkVnD84eF,2021-09-02,medium,Google Cloud Storage UI is experiencing some issues
+status.cloud.google.com,gwKjX9Lukav15SaFPbBF,2021-09-01,medium,"us-central1, europe-west1, us-west1, asia-east1: Issue with Local SSDs on Google Compute Engine."
+status.cloud.google.com,vFhgfrfzzrx6zQo69SdQ,2021-07-27,medium,Issues with GKE 1.20 (lower than 1.20.9-gke.2100) node pools using Docker as runtime.
+status.cloud.google.com,sXRB8Ty5Xzb13t8DCrD8,2021-11-02,medium,Global: Cloud Monitoring returning partial results on some queries
+status.cloud.google.com,aFfDakd653GfsyCBJnZq,2021-10-27,medium,Multi-region/US: BigQuery queries may show latencies during execution.
+status.cloud.google.com,b29RZjsCa4Xuq874upMd,2021-10-27,medium,Multi-region/US: BigQuery queries may show latencies during execution.
+status.cloud.google.com,gFhaHLtkkPrs5N5dNMRG,2021-10-27,medium,Cloud logs might be unavailable for 25% of customers in global location.
+status.cloud.google.com,sCsR34eVfCzGQMGssusu,2021-10-20,medium,"Global: Issues with populating a UI element in Cloud Console for Cloud Run, Google Container Registry and Artifacts Regi"
+status.cloud.google.com,CcVrekxu6kxWYTuitVf4,2021-10-20,medium,us-central1-c: GKE experiencing issues with some cluster and nodepool operations. Mitigation Underway.
+status.cloud.google.com,AB9DV685UZYD2Y7vDQ36,2021-10-19,medium,US Multi-Regions: Cloud Logging experiencing elevated error rate while reading logs. Mitigation underway.
+status.cloud.google.com,bUY8Ac8dJK2n3LLyJ2n7,2021-10-19,medium,us-central1: Cloud Pub/Sub experiencing issues with seeing monitoring metric data
+status.cloud.google.com,YR89K3PwAZZCij3X1GPS,2021-10-19,medium,us-central1: Cloud Bigtable experiencing issues with metrics for bigtable.googleapis.com
+status.cloud.google.com,tu3zwM1PgkKadEodDs8e,2021-10-19,medium,us-central1-c: GKE experiencing issues with some cluster and nodepool operations. Issue Mitigated.
+status.cloud.google.com,9X2yAZMaYvM7egWTBioq,2021-10-19,high,Global: Cloud Monitoring elevated errors requesting underlying monitoring data
+status.cloud.google.com,e7k7vJdLNPgefin6BZnx,2021-10-19,medium,us-west1: Cloud Logging experiencing elevated error rate while reading logs. Mitigation underway
+status.cloud.google.com,m617oqASdckYoegRtPJr,2021-10-18,medium,us-west1: Cloud Logging experiencing elevated error rate while reading logs
+status.cloud.google.com,rXqQALuw55aCKd2QHfM3,2021-10-13,medium,Global: Some Cloud Monitoring metric calculations are delayed or missing for multiple Cloud Services
+status.cloud.google.com,TQ7kUbAPqaEXrxqGKTP9,2021-10-06,medium,"us-central1-a,c: Cloud spanner jobs reporting high read latencies. Incident mitigated."
+status.cloud.google.com,4Qvmd4q81VnA9RirCMqV,2022-05-06,high,We are experiencing an issue with Persistent Disk affecting multiple services in us-central1-b
+status.cloud.google.com,1YzVoQe8tR83ubvbAnDd,2022-05-06,high,This incident is being merged with an existing incident. All future updates will be provided there: https://status.cloud
+status.cloud.google.com,YUJH3JbojVM5WE4jxyrc,2022-05-06,medium,This issue is believed to be affecting a very small number of projects and our Engineering Team is working on it. If you
+status.cloud.google.com,pQohCqBLfFapHrkjY5Mh,2022-05-06,medium,Elevated tail latencies on Persistent Disk standard devices
+status.cloud.google.com,TFyk1uenaojF2iJAnAAL,2022-04-28,medium,"Google Cloud Support experiencing issues with case creation, case viewing and case search"
+status.cloud.google.com,mvpNTsgUmf2LL7PdgmyF,2022-04-28,medium,Google App Engine Increased Latency in us-central1
+status.cloud.google.com,HoppX9SAc7jshpz6H52u,2022-04-26,medium,We are experiencing Cloud Networking Control Plane issues
+status.cloud.google.com,yatPQDmQ5uXqb6PzwanU,2022-04-23,medium,Global: Cloud Monitoring Metrics may be unavailable or underreported for Cloud Pub/Sub
+status.cloud.google.com,BNZwWJfvtjg3HxKA3bjY,2022-04-21,medium,"We are experiencing a decrease in availability of Cloud ML Vision, increase in latency."
+status.cloud.google.com,waYi5P1JfEPrJh5tPNQU,2022-04-18,medium,Cloud Logging is experiencing elevated latencies for log querying. Customers using global storage buckets or storage buc
+status.cloud.google.com,ukkfXQc8CEeFZbSTYQi7,2022-03-31,medium,us multiregion: Elevated errors on Cloud KMS requests.
+status.cloud.google.com,RmPhfQT9RDGwWLCXS2sC,2022-03-31,medium,Global: Delays creating or modifying load balancer configurations
+status.cloud.google.com,B1hD4KAtcxiyAWkcANfV,2022-03-31,high,Global: Cloud Monitoring Metrics may be unavailable or underreported for Cloud Pub/Sub
+status.cloud.google.com,4rRjbE16mteQwUeXPZwi,2022-03-29,medium,We've received a report of an issue with Cloud Talent Solution - SearchJobs API queries.
+status.cloud.google.com,2j8xsJMSyDhmgfJriGeR,2022-03-28,medium,Cloud Spanner instance creation failure
+status.cloud.google.com,MtMwhU6SXrpBeg5peXqY,2022-03-25,medium,Global: We experienced Google Cloud Networking issues.
+status.cloud.google.com,R9vAbtGnhzo6n48SnqTj,2022-03-22,medium,Customers connecting from Mexico and Central America may experience issues with accessing GCP services
+status.cloud.google.com,aA3kbJm5nwvVTKnYbrWM,2022-03-18,high,Cloud Networking: Up to 40% packet loss between affected zones
+status.cloud.google.com,LuGcJVjNTeC5Sb9pSJ9o,2022-03-08,medium,global: Elevated HTTP 500s errors for a small number of customers with load balancers on Traffic Director-managed backen
+status.cloud.google.com,Hko5cWSXxGSsxfiSpg4n,2022-02-22,medium,"BigQuery S3 Data Transfer Service experiencing issues in us-multiregion, asia-noutheast1 and asia-southeast1"
+status.cloud.google.com,qfgJm8m4WPn2Ej2Z7vc2,2022-02-19,medium,Global: Requests to .NET Cloud Run applications fail if HTTP/2 or gRPC is used
+status.cloud.google.com,MqpDy4VdUKuQkw1GXPTo,2022-02-15,medium,Global: Cloud SQL PostgreSQL password validation errors with high connection load.
+status.cloud.google.com,oAxmtvN5RuKAYHMG4ToR,2022-02-15,medium,We experienced an intermittent issue with Cloud Networking.
+status.cloud.google.com,xtW5y29FeYgjfLW3AwKY,2022-02-11,medium,Global: Delays provisioning SSL certificates for HTTPS load balancers
+status.cloud.google.com,46bP9UWxaLXHyCUQdjPR,2022-02-10,medium,"Google engineering are investigating issues with Cloud Networking, starting at 2022-02-10 00:32:56 PST"
+status.cloud.google.com,m6gcTj6EdTDt7oLjR5da,2022-02-10,medium,Contact Support Widget is down
+status.cloud.google.com,bRpbkj2tcGDGQ6j4d8Uv,2022-02-07,medium,Cloud Interconnect can see packet loss for users accessing VMs and Google Services
+status.cloud.google.com,1cPiGbWDMYHFMcTaLADd,2022-02-02,medium,Global: Cloud build unable to create github triggers
+status.cloud.google.com,whAt3eeGhT2SbR2aQXwA,2022-01-16,high,Users will not receive alerts on Firebase console.
+status.cloud.google.com,NYcRpDHwjnhD6Gh2yUyK,2022-01-11,medium,us-east1-c: Load balancing creation/modifications not taking effect.
+status.cloud.google.com,izF3BTJMavU36BBKJNAz,2022-01-11,medium,Apigee is experiencing issues loading the Apigee UI at apigee.google.com.
+status.cloud.google.com,NMcnk6aE8xMHHwRGmyry,2022-01-08,high,US-WEST1: Multiple cloud products experiencing network issues
+status.cloud.google.com,cBRgkAaxS8Rq3vvbPHaw,2021-12-21,medium,Internal errors for Dataset commands insert/update in us-central1
+status.cloud.google.com,fniZhzAhYdcJuosEwwtZ,2021-12-17,medium,us multiregion: Elevated tail latency on read operations for GCS buckets
+status.cloud.google.com,SjJ3FN51MAEJy7cZmoss,2021-12-07,medium,Global: pubsub.googleapis.com autoscaling not worked as expected
+status.cloud.google.com,NinksF6tPrSYEzmMrQfs,2021-11-16,medium,Global: Google App Engine Flex customers getting 404 errors on their websites.
+status.cloud.google.com,M4J2kuEduFhpiF6BhDRE,2021-11-16,medium,Multi-Region : Cloud Run experiencing issues with network traffic
+status.cloud.google.com,tXL2SNKYJeUEAbEnLJzD,2021-11-16,medium,Multi-Region: App Engine experiencing network traffic issues
+status.cloud.google.com,6PM5mNd43NbMqjCZ5REh,2021-11-16,high,Global: Experiencing Issue with Cloud networking
+status.cloud.google.com,ZoUf49v2qbJ9xRK63kaM,2021-11-13,medium,Some Users might have received credit cards deemed invalid email erroneously.
+status.cloud.google.com,o44ZUgX95KF11F7cqd5v,2021-11-13,medium,"us-central1, us-west1, us-west1, us-east1: Cloud Spanner missing stackdriver CPU, memory and disk metrics."
+status.cloud.google.com,1xkAB1KmLrh5g3v9ZEZ7,2021-11-12,medium,We are experiencing Networking issues
+status.cloud.google.com,9A7WPjqgreJGbpmA6FqJ,2021-11-12,medium,Issue with Cloud Bigtable
+status.cloud.google.com,MHS8ukmQamTNoZ9uqHvF,2021-11-12,medium,Issue with Google Cloud components
+status.cloud.google.com,u4oEtmqmJ1fmY8bjzxxa,2021-11-12,medium,Issue with Google Cloud SQL
+status.cloud.google.com,PgiLpR4P4S1x7QgwXamt,2021-11-12,medium,"We are experiencing an issue with multiple Google Cloud components {beginning on Friday}, 2021-11-12 00:36 US/Pacific US"
+status.cloud.google.com,4qh2oE7kwsMoMNXScfoT,2021-11-12,medium,"We are experiencing an issue with multiple Google Cloud components {beginning on Friday}, 2021-11-12 00:36 US/Pacific US"
+status.cloud.google.com,8hZjcddmMVe9W1jh8SCN,2021-11-12,medium,Issue with Google App Engine
+status.cloud.google.com,cJwQRK4bgybhu7nNQ5W4,2021-11-12,medium,Issue with Eventarc
+status.cloud.google.com,A1HUEnN25xk8XiSmjmsj,2021-11-12,medium,We are experiencing an issue with multiple Google Cloud components.
+status.cloud.google.com,qgC4WYnmToo6fkqEnqYf,2021-11-12,medium,Issue with Container Analysis API
+status.cloud.google.com,aCXLk4u6GJoLn9PqSMm1,2021-11-02,medium,Global: Issues with Cloud SQL for MySQL instance migration to 5.7 when source databases have gtid_mode set to ON.
+status.cloud.google.com,2qH61fdyC5mGGtzqst5b,2022-11-19,low,Cloud Dataflow: Some Streaming Appliance Jobs stalling due to deleted workers
+status.cloud.google.com,ZQHPMx8vbARG3LFLHRB9,2022-11-18,low,Cloud Build Retry Build action degraded
+status.cloud.google.com,BJhP3xQgfGtxRKTN6yHd,2022-11-18,low,We are experiencing an issue with App Engine GEN1 Users API.
+status.cloud.google.com,uhH8cFg1WEzBxFHWWdPs,2022-11-17,low,Cloud Composer v2 environments autoscaling might not work.
+status.cloud.google.com,jSYPL21Js7PEJro9ophY,2022-11-15,low,US Multi-region: Datastore Increased Errors and Latency
+status.cloud.google.com,rjV26MkG41n1YSAWL97S,2022-11-14,high,We are investigating a potential issue with multiple Google Cloud services.
+status.cloud.google.com,XbwMLqZGNXcfLUxdBWA9,2022-11-12,low,Cloud Workflows: Increased latency for API actions in us-east5
+status.cloud.google.com,2A3RbyrrHx3udjrNG1ur,2022-11-11,low,Zonal: Some Cloud Bigtable customers will not be able to restore backups in us-central1-a
+status.cloud.google.com,2F2f16DptjjFeUTo8QcF,2022-11-11,low,Global: Some Cloud Filestore Enterprise instances failing to perform customer change requests
+status.cloud.google.com,NXMPMbVyi51BMicBX3ga,2022-11-10,low,Google Cloud Storage (GCS) in europe-west1 is experiencing unavailability errors
+status.cloud.google.com,fMoBTKwAsJdvLrxXusAB,2022-11-10,low,Google BigQuery: Customers may get INTERNAL_ERROR when running import jobs in regions/europe-west1
+status.cloud.google.com,AdiGr14zx3PAWWj4C8mQ,2022-11-09,low,Zonal: GCE VM's Experiencing delayed maintenance
+status.cloud.google.com,w7D5XGtVfMGcdcg4Zzud,2022-11-09,medium,Firestore databases in nam5 multi-region are unable to issue any streaming reads/writes
+status.cloud.google.com,hP4n1sd1k6xkj79uRuH7,2022-11-09,medium,We are experiencing issues in App Engine Flexible and Cloud Composer
+status.cloud.google.com,7wwcABbumVD2AhRmdBPX,2022-11-08,low,Autopilot (clusters versions >= 1.23) may break some workloads
+status.cloud.google.com,UUxFtN51bnAeczApc7WP,2022-11-08,low,Global: Cloud Eventarc customers experiencing operation failures
+status.cloud.google.com,rmDuydhBoavJqwu3eeXB,2022-11-08,low,App Engine: Flex deployment operations failing
+status.cloud.google.com,UN4QaH2KqrGSqvAnX3xW,2022-11-07,low,Global: High latency observed for Cloud Run customers.
+status.cloud.google.com,PzWZ4Hb4rXivbGynoE8F,2022-11-05,low,Cloud Logging logs-based metrics data points may be missing or delayed
+status.cloud.google.com,C2zCMDqWecoUzuLNvBBS,2022-10-27,low,Global: Cloud Data fusion experiencing issues with instance creation
+status.cloud.google.com,uvc41Z35bq2kaGVV796C,2022-10-27,low,us-west1: Degraded performance for PD-Standard devices
+status.cloud.google.com,rFFx63ViPX6ZbA8NHAjt,2022-10-27,low,Cloud Filestore AutoQuota increase requests are not succeeding via console
+status.cloud.google.com,qv2VvxMoAzY8xgH4bsLQ,2022-10-27,low,VMs using Local SSD are experiencing intermittent terminations.
+status.cloud.google.com,ZF9vMrevw5iPafdrhUPf,2022-10-26,low,Global: Major version upgrades for postgres instances are failing
+status.cloud.google.com,vahM4soitCANy8LH84HH,2022-10-25,low,Failure in Config changes in Cloud Monitoring
+status.cloud.google.com,7BkNzwMsik35A2V5j6vM,2022-10-24,medium,Some VPCs are missing dynamic routes from peered networks
+status.cloud.google.com,1ynCd7pD7sLpyiqnQsbR,2022-10-21,low,File Attachments issues from Customer Care Portal and Google Cloud console
+status.cloud.google.com,4dy8veZsrCWE6SNhbabD,2022-10-18,low,Google BigQuery experiencing high query latency
+status.cloud.google.com,cpjg1BS9Go8fmW6rAs9V,2022-10-17,low,Multiregion: Dataproc jobs missing from the console
+status.cloud.google.com,mREMLwZFe3FuLLn3zfTw,2022-10-14,medium,BigQuery is experiencing issues with streaming API in US region
+status.cloud.google.com,5Qmw8CdU6NxVRDFohwwT,2022-10-07,low,Connecting GitHub repository is not working
+status.cloud.google.com,UjJ6XHN6kG69FDiyAfLD,2022-10-06,low,SEV VMs on RHEL image fail to boot in zones -a and -b in all regions
+status.cloud.google.com,1YfiHrPee4d8Cvofxxwp,2022-10-06,medium,Google Cloud Networking is experiencing issues in South America
+status.cloud.google.com,MGQTanrU9ETiKdQM8MxH,2022-10-04,low,Google Cloud Functions v2 deployments failing in europe-west4
+status.cloud.google.com,MwqWZK7xGGEXFuKDxFY3,2022-10-04,low,Multiregion: GCFv2 First-time Deployments experiencing failures
+status.cloud.google.com,CAbbaRV5dc3LdkjJ8mt3,2022-09-29,low,Global: Calico enabled GKE clusters’ pods may get stuck Terminating or Pending after upgrading to 1.22+
+status.cloud.google.com,eXTnrpxXmcgK36bMxrtD,2022-09-29,low,Multiregion: BigQuery persistent errors for some customers' DML operations
+status.cloud.google.com,QDGjaHNBytaX4kad7zsb,2022-09-28,medium,Cloud Monitoring - Uptime - 100% error rate in southamerica-east1
+status.cloud.google.com,LqkdnzZu922W6jCkRhPh,2022-09-28,low,europe-central2-c: GCE instances not autoscaling
+status.cloud.google.com,qW6EH55S8a6dD4mDRCUN,2022-09-28,low,We are experiencing an issue with Google BigQuery.
+status.cloud.google.com,fSKnyAispFXgYg5AnEW9,2022-09-27,medium,MemoryStore for Redis - instances update/export failures
+status.cloud.google.com,riSP7URjvJ5yrdAV16Mo,2022-09-27,medium,Firestore degraded performance in europe-west3
+status.cloud.google.com,BpLRiwzxkF3BBtS24PuB,2022-09-26,low,Google Cloud Console is experiencing issue with displaying the list of compute instances.
+status.cloud.google.com,MzXRzD5WSRyyuYaJsX9Y,2022-09-22,high,Customers experienced a cloud networking disruption from 04:28 AM - 04:50 AM US/Pacific
+status.cloud.google.com,VwYPkFLRVN72LijtLvDa,2022-09-20,low,us-east1: Cloud SQL instance creation failures
+status.cloud.google.com,tK27wxVTmR9qpxvE1oJw,2022-09-19,medium,[False Positive] - Agents unable to receive phone calls
+status.cloud.google.com,bNT9EzAvFZsPygifzs66,2022-09-18,low,Google Engineer investigating issues with initiation of new DB migrations. Please use API directly if you are experienci
+status.cloud.google.com,GpFv3Us3JmmekbEzhkcQ,2022-09-18,low,Global: Cloud Dialogflow with Speech-to-Text experiencing elevated error rates
+status.cloud.google.com,D3gYxpd69zbYrqpN1aES,2022-09-17,low,Global: Cloud Dialogflow with Speech-to-Text experiencing elevated error rates
+status.cloud.google.com,1wLJzpF7zkXbsZEGFgf4,2022-09-16,low,Global: Cloud Monitoring Dashboard experiencing issues editing tables
+status.cloud.google.com,urNR4xD4gBNsyaZj3W1i,2022-09-15,low,Global: Calico enabled GKE clusters’ pods may get stuck Terminating or Pending after upgrading to 1.22+
+status.cloud.google.com,H1ezzg8Ks93xvAWn8KNw,2022-09-15,low,Global: Cloud Run deployment time outs and failures
+status.cloud.google.com,CH7e9xRDMZx1NqPU3UKG,2022-09-15,low,Issue with creating new Stream instance
+status.cloud.google.com,5kFqcg27NjQ1nkYFpfMM,2022-09-15,low,Global: Cloud Run deployment time outs and failures
+status.cloud.google.com,fL4dE64oQnj87ityy8uU,2022-09-15,low,Multi-Region: Elevated Cloud Run deployment latency
+status.cloud.google.com,a39Bb5MP1XYq6utZmssE,2022-09-15,medium,Google Engineer are investigating an issues with Cloud GCE.
+status.cloud.google.com,X8SNkK2BPyCrc1sveeiu,2022-09-13,high,Cloud Filestore ListInstances API failed with error code 429 globally
+status.cloud.google.com,pEgU6tNHVw4PHr2DRdCF,2022-09-13,medium,Support Systems Salesforce case updates fails with row lock error.
+status.cloud.google.com,qyBbHRx9BCz3bMw3kiL3,2022-09-09,low,Asia: Data Catalog Search seeing high error rate in APAC and US
+status.cloud.google.com,MPyRe8eVsGt5Zib7P9gd,2022-09-08,low,Google Engineer are actively investigating an issues with BigQuery Early indication is customer in the EU area are being
+status.cloud.google.com,LQnCJ3wv217cYwhiaWSz,2022-09-07,low,BigQuery Data Transfer Service for Google Ad Manager transfer runs failing with error
+status.cloud.google.com,DVaEf77NdnLsyW19hk8Q,2022-09-06,low,US-Central1: Cloud Dataflow jobs experiencing issues
+status.cloud.google.com,m4b47Ln94TRKJz93setH,2022-09-06,medium,Global: Cloud Armor Security Policy Change Propagation Failures
+status.cloud.google.com,pvxkedFYwu87YuHVe9YD,2022-09-01,low,Global: Google Cloud Functions Gen 2 customers experiencing issues
+status.cloud.google.com,f2T9veB57h1racANQHXW,2022-08-31,low,Global: Classic template job names do not accept underscores for Dataflow jobs
+status.cloud.google.com,9siV4viU2tMqkJrVWjBf,2022-08-30,low,Global: Increase in failure rate for SQLServer Instance Creation
+status.cloud.google.com,q5jsbB2eCwgdCb2WBPFk,2022-08-30,low,App Engine Standard deployments issues in asia-south1
+status.cloud.google.com,D1t8fKU8oCrUMPwGu8CQ,2022-08-29,low,Global: Conflict with timezone refresh and replica startup causes replication failure for Google Cloud SQL
+status.cloud.google.com,uZGvvADp63kQfwcMjshJ,2022-08-29,medium,Global: Cloud Spanner Query and Data UI pages not returning results for tables
+status.cloud.google.com,xQf7hNUq6FGPmMGE7LoY,2022-08-25,low,Some cloud config files are unable to be changed
+status.cloud.google.com,c8KN35RKVPWq9uCkVDsr,2022-08-25,medium,Multiple services impacted in us-central1 region
+status.cloud.google.com,JW3dWx6mNFZJPfToA8oa,2022-08-24,medium,SCC onboarding failed to enable Container Threat Detection (KTD)
+status.cloud.google.com,Mer2vhvXsDVbFLVRcKdw,2022-08-24,low,Issue with starting dataflow flex template jobs in asia-northeast1 and asia-east1
+status.cloud.google.com,KVM7mPBRCJoedGLFLvwy,2022-08-20,medium,"Cloud Monitoring is serving query failures, errors, and metrics unavailability impacting Google Compute Engine, Cloud Sp"
+status.cloud.google.com,XCBDehwBA59WmvYPit7i,2022-08-18,low,User timers broken for certain Dataflow streaming pipelines in multiple locations
+status.cloud.google.com,4gLW5d7EjRsyv1BKF3nD,2022-08-16,low,Elevated latencies and intermittent failures while creating lakes in Dataplex
+status.cloud.google.com,z1SJaDP8pTycwNQ9uHSZ,2022-08-13,low,us-east1: Transfer product affected for Storage transfer service customers
+status.cloud.google.com,pRJnaYPTwBCKMNwYL4yU,2022-08-10,low,Europe West: Deadline_Exceeded errors across multiple Logs Coliseum endpoints
+status.cloud.google.com,y1ynLrPJBmwxFoLesmjR,2022-08-04,low,Cloud Workflows experiencing high latency and execution failures in europe-west1
+status.cloud.google.com,LXkuK6DKs2uy4aaXgcqb,2022-08-04,low,503 error response can be observed for Google Cloud Functions
+status.cloud.google.com,zUCkETi9UyEj7u2MJQnQ,2022-08-02,low,Billing User Interfaces are unable to load the data consistently
+status.cloud.google.com,gH9SgGxbNhupNZuMA7RR,2022-08-02,low,GKE cluster control planes unavailable in us-central1-a
+status.cloud.google.com,qWnuQi9gM9DFwZQMxW6r,2022-07-30,low,Reduced Pub/Sub operations availability in us-central1
+status.cloud.google.com,HV32E9eBBC2XeMUSYCed,2022-07-28,low,Latency increase from 50ms to 200ms between Cloud Regions southamerica-east1 and southamerica-west1
+status.cloud.google.com,y4gfB91tKnACnTcH9hGe,2022-07-28,low,Google Bigquery experiencing increased query error rate in US Multi-region
+status.cloud.google.com,4NoanC58bFNsKiUoKdFP,2022-07-27,low,Google Cloud Networking experiencing elevated latencies in South America regions
+status.cloud.google.com,f8ad45DUcBKG4pbEBpuG,2022-07-26,low,Regional: Cloud/Pubsub push subscriptions reduced availability us-central1
+status.cloud.google.com,mQpMu8hcYQSGbyUdwQwM,2022-07-25,low,Google Cloud Console Transfer Appliance Order Incorrectly Routed in Singapore Region
+status.cloud.google.com,NAU2p9yeFgrsj8iVU2Xh,2022-07-25,medium,"Cloud Billing usage reporting is experiencing issues, and Cost Management experience may show incomplete data."
+status.cloud.google.com,cSLrA8wLeQF93qb8GFM4,2022-07-25,low,Reduced Pub/Sub availability in us-central1
+status.cloud.google.com,gAJbQsuZv3kiuNbjQHvP,2022-07-22,low,Singapore: Cloud Storage for Firebase connectivity issues
+status.cloud.google.com,gswAupd1mFy1zfq6zErG,2022-07-22,low,Cloud TPU V4 experiencing availability issues in us-central2-b
+status.cloud.google.com,mLBHeCxhRia17anXCSX1,2022-07-19,medium,Secret Manager experienced service unavailability in europe-west2
+status.cloud.google.com,XVq5om2XEDSqLtJZUvcH,2022-07-19,low,Cooling related failure in one of our buildings that hosts zone europe-west2-a for region europe-west2.
+status.cloud.google.com,fmEL9i2fArADKawkZAa2,2022-07-19,medium,"Multiple Cloud products experiencing elevated error rates, latencies or service unavailability in europe-west2"
+status.cloud.google.com,5fYoeLUgYW8TaNeGwkm5,2022-07-18,low,Google Cloud Support Systems File upload failure
+status.cloud.google.com,o91gguo48MgGCXjGFFPe,2022-07-15,low,"Customers may observe degraded read API throughput resulting in slow job runtimes in services (ODBC/JDBC, Dataproc, Data"
+status.cloud.google.com,MYgsmwRt8h2E36MmjkQW,2022-07-15,medium,Cloud Spanner may be experiencing issues Globally
+status.cloud.google.com,hzxcQxLANyeavQXe3PpV,2022-07-15,high,This issue is believed to be affecting a very small number of projects and our Engineering Team is working on it. If you
+status.cloud.google.com,vLsxuKoRvykNHW3nnhsJ,2022-07-15,high,Google Cloud Storage is experiencing elevated latency in multiple regions.
+status.cloud.google.com,PCibvK1LbstDfPKPGfRC,2022-07-15,low,BigQuery observing high import/export job latencies in several regions
+status.cloud.google.com,a9sMdFqr1mDB4vCB93M4,2022-07-13,low,Multi Region VMWare Engine - GCVE Firewall Status Failure
+status.cloud.google.com,3GPGN5Vdj2bXGKm4ngpE,2022-07-13,low,Cloud Firestore: authentication errors in Firestore API in us-central1 and australia-southeast1
+status.cloud.google.com,AfU6Lhw8Sa3vfTk3oSK7,2022-07-13,low,Fabric programming rejected in us-central1.
+status.cloud.google.com,ruHYNzJcn1TD2wSf3ncb,2022-07-12,low,Cloud Monitoring: Increased latency and errors
+status.cloud.google.com,pNGXL7ecA1NEYTnSatj8,2022-07-07,low,Elevated TLS handshake latency in Google Cloud Networking
+status.cloud.google.com,tNca2hH1FeSKSvBTBDvq,2022-07-07,low,This incident is being merged with an existing incident. All future updates will be provided there: https://status.cloud
+status.cloud.google.com,NLWrAcuy7i3T2ANQjFo3,2022-07-06,high,VMWare Engine portal unavailable.
+status.cloud.google.com,TaA75H7XA1DQyM2ReK2f,2022-07-01,low,[Google BigQuery] Lower throughput from the Read API
+status.cloud.google.com,mDY7jN545et9XUV541MZ,2022-06-30,low,Intermittent Cloud Composer creation failures in select regions and elevated error rates during Cloud SQL instance creat
+status.cloud.google.com,sPyYB214xAhqnoxNrrnW,2022-06-29,medium,Global: Apigee X is experiencing issues with integrated portals and API Monitoring.
+status.cloud.google.com,V3AJNVDysYF1EXttKC3N,2022-06-29,low,This issue is believed to be affecting a very small number of projects and our Engineering Team is working on it. If you
+status.cloud.google.com,pXUM8jeE61fpp3VXz5sr,2022-06-28,low,Elevated packet loss in europe-north1
+status.cloud.google.com,mbtvSs2qKE3Nz6nxR6rY,2022-06-28,low,We are experiencing an issue with Hybrid Connectivity specifically in Geneva.
+status.cloud.google.com,6ocKuGf4LTJTjaB84Ms4,2022-06-27,low,Cloud Function 2nd Generation deletes were erroring out in multiple regions.
+status.cloud.google.com,fh6jfua8BdRbCkwTegBy,2022-06-24,low,Cloud Redis BASIC Tier Instances cannot proceed version upgrade after their maintenance or capacity update
+status.cloud.google.com,drLHg29pR5QHUvr5buDq,2022-06-23,medium,vSphere vCenter and NSX may not have been available for a short period of time in us-central1
+status.cloud.google.com,58JrPVZpPTo1S6xJoiMj,2022-06-21,low,Cloud Router route priorities being wrong
+status.cloud.google.com,DXiQQW2ipyeeNsq9RFxz,2022-06-19,medium,Google engineer are currently investigating a issue with the cloud networking product
+status.cloud.google.com,sY4rnjxM4pSudhn6LZUA,2022-06-16,low,[Global] Cloud Spanner backups restore operations may be delayed.
+status.cloud.google.com,iAgVMxJUfE1J9et7j9KB,2022-06-16,high,Google Cloud Networking packet loss issue
+status.cloud.google.com,Lvd7FBrPJmL7oxhqrDwt,2022-06-14,medium,This incident is being merged with an existing incident. All future updates will be provided there: https://status.cloud
+status.cloud.google.com,fc7GCA6kAgnBihezUAkx,2022-06-14,medium,"We are experiencing an issue with Google Cloud Networking at us-central1 across multiple products, beginning at Tuesday,"
+status.cloud.google.com,huJFgyiNYPPypbw8PX9Y,2022-06-14,high,Global: Some Google Cloud Console Customers are unable to create/edit GCE instances
+status.cloud.google.com,4Sie4sXFPougA2Ku24pT,2022-06-14,low,GKE API seeing high latency and errors in us-central1
+status.cloud.google.com,KPYTXQW4gRhXvTsZ1Fj9,2022-06-11,medium,We are experiencing an issue with Cloud Armor control plane
+status.cloud.google.com,HzDuJz8t92LzvER4pT3y,2022-06-09,low,[US Multiregion] Customers May Experience BigQuery Latency
+status.cloud.google.com,Q9MUHCFVpqouJbGrzneJ,2022-06-08,medium,[Global] Google App Engine - Customers using the Secrets Manager are experiencing increased errors.
+status.cloud.google.com,e383eLoLFGdSMeUQo7Ch,2022-06-08,low,Google Analytics Daily BigQuery exports for certain customers may experience delays
+status.cloud.google.com,YrjzRWPFBUZU5HJZ4mN7,2022-06-07,high,"Google Cloud Networking experienced increased packet loss for egress traffic from Google to the Middle East, and elevate"
+status.cloud.google.com,TujZ6j7u14hirgg5WqZ4,2022-06-06,low,US & EU Multiregions : Elevated errors with BigQuery streaming inserts
+status.cloud.google.com,BnzamL7pXnge8zLHyjyK,2022-06-05,medium,Global: Elevated delays in propagating changes to Cloud IAM policies and group memberships.
+status.cloud.google.com,6sfxucMj6DuhVzmj9Xr8,2022-06-04,medium,us-east1: Elevated errors affecting multiple services.
+status.cloud.google.com,XdQANahFJvMuxxkgA34K,2022-06-02,high,Global: Vertex AI Online Prediction Is Experiencing Increased Error Rates
+status.cloud.google.com,YkkPCVAzdyuNJJFS54kM,2022-05-31,low,Cloud Build ListBuild HTTP calls having increased latency and timeouts
+status.cloud.google.com,haJamsyevGnru71kfZRM,2022-05-31,low,"Networking metrics in Cloud Monitoring partially unavailable in europe-west4, us-central*"
+status.cloud.google.com,ipisoukd9hNno6SbpWWE,2022-05-27,low,This issue is believed to be affecting a very small number of projects and our Engineering Team is working on it. If you
+status.cloud.google.com,eMrkQFQCj1Xmf3trQRNt,2022-05-27,low,Europe: Customers may experience elevated errors with Google Cloud Storage API operation.
+status.cloud.google.com,qD5T5M49jVJvj4NXvYjK,2022-05-27,low,us-east4: Cloud Interconnects are experiencing latency spikes and packet loss.
+status.cloud.google.com,2uFuNdeK9xXSwY9w7cCj,2022-05-26,medium,Google Cloud python libraries incompatible with 4.21.0 protobuf library release
+status.cloud.google.com,Gt6njQyniuxXViQULV2T,2022-05-25,high,Global: BigQuery may experience elevated query latencies or failures.
+status.cloud.google.com,rrmfPRaESXcrpfxPo5y6,2022-05-24,medium,Degraded serving for Google App Engine and Cloud Functions users in us-central1
+status.cloud.google.com,JqefFhK5oa22EzFGhtg3,2022-05-23,medium,Some customer VMs may be unreachable in us-central1-b.
+status.cloud.google.com,eo76pxZiDgWVz4z3kmUv,2022-05-20,high,Global : Cloud Networking faced severe packet loss
+status.cloud.google.com,3NTkKG1x382cHtxQGM76,2022-05-09,high,This issue is believed to be affecting a very small number of projects and our Engineering Team is working on it. If you
+status.cloud.google.com,jmCkyGvzEvbgUuhdYTTW,2022-05-09,high,This issue is believed to be affecting a very small number of projects and our Engineering Team is working on it. If you
+status.cloud.google.com,SmJPisFk1m1KH7UTJrM5,2022-05-09,high,This issue is believed to be affecting a very small number of projects and our Engineering Team is working on it. If you
+status.cloud.google.com,GVJPxjAqPSvxFMh3CmjQ,2022-05-09,medium,We've received a report of an issue with Persistent Disk.
+status.cloud.google.com,2Hd52dn3PqYGTD5zdp7v,2022-05-09,medium,This incident is being merged with an existing incident. All future updates will be provided there: https://status.cloud
+status.cloud.google.com,eWat683pNnkMT7orVDBV,2022-05-09,medium,Google Cloud Infrastructure is failing to push cloud configs
+status.cloud.google.com,x7sHBZr8vu8tyJoq8Ahq,2022-05-06,low,Customers may experience elevated latency for inter-region in multiple asia regions.
+status.cloud.google.com,6nV9kudxEmgDnwAG1uJY,2022-05-06,high,This incident is being merged with an existing incident. All future updates will be provided there: https://status.cloud
+status.cloud.google.com,N3Dw7nbJ7rk7qwrtwh7X,2025-03-29,high,Customers are experiencing connectivity issues with multiple Google Cloud services in zone us-east5-c
+status.cloud.google.com,hdknJ5aWh8KCAimNhTHe,2025-03-04,low,Apigee customers may experience unable to login to Admin UI portal.
+status.cloud.google.com,32iSTecJmvVhCPRvCuWX,2025-02-19,low,Cloud Asset Inventory customers' queries may not return result
+status.cloud.google.com,r23WwsX2tpSN7RyFs83c,2025-02-18,medium,SIEM Dashboards and SOAR Advanced Dashboards for Google Security Operations (SecOps) were unavailable.
+status.cloud.google.com,YzMELUzpd8rYgwYt714D,2025-02-16,medium,Vertex AI Search for commerce customers may observe 100% error rate for certain IPs.
+status.cloud.google.com,eya5zBxFRFhNqBhUXe6Q,2025-02-13,low,Chronicle Security experienced issues related to feed based ingestion in europe-west2
+status.cloud.google.com,3C3D9dLK9dkx8kRdc72a,2025-02-02,low,Chronicle Security users experiencing an issue in us-multiregions
+status.cloud.google.com,n8QFYMxUxe65sum9P1gk,2025-01-31,medium,Chronicle Security - WORKSPACE_ACTIVITY data ingestion observed delays in asia-southeast1 & asia-south1 regions
+status.cloud.google.com,uqPLSADLwLztWWcLCPfz,2025-01-28,low,Cloud Translation experienced elevated latency and error rates
+status.cloud.google.com,jPyjAMj7j3NksnWVMTRt,2025-01-28,low,Cloud Translation experiencing elevated latency and error rates
+status.cloud.google.com,qB1du5LQfSHCJjWR88Fi,2025-01-24,high,Appsheet is unavailable in us-east4 and europe-west4
+status.cloud.google.com,GsmUFt8Pb4XU3vaTwHS6,2025-01-15,low,Chronicle Security experienced elevated timeout errors across US regions.
+status.cloud.google.com,2np3yFXF8LegQkKGdPuB,2025-01-10,low,Vertex Gemini API customers are experiencing elevated errors on Gemini 1.5 Flash 002 model
+status.cloud.google.com,mZ5kwvWe9KSwbPdn1P61,2025-01-10,low,Data Ingestion feeds errors while using SecOps
+status.cloud.google.com,285CgEr7WAXjNeEC78gX,2025-01-08,medium,We are experiencing an issue with Chronicle Security
+status.cloud.google.com,ghMho2Gka33Exr9UNavz,2025-01-08,high,Multiple regions completely blocked for subscribe for Pubsub
+status.cloud.google.com,HY6cMoMSTAUFjcPDnQGq,2025-01-07,low,Elevated rate of ‘500’ errors observed on Gemini 1.5 Flash and Gemini 1.5 Pro 002
+status.cloud.google.com,cvAsjCVK2TcZk3M46WSM,2025-01-07,low,Some Apigee X customers experienced issues with logging into the integrated developer portals using SAML.
+status.cloud.google.com,LgA6CQF3F5F29nBorBL1,2025-01-06,low,Cloud Console customers trying to get support via chat may experience higher latency or errors.
+status.cloud.google.com,eXeR3hFQDmZJdPTjU43j,2024-12-19,low,Vertex Gemini API and Vertex AI in Firebase customers in us-central1 are experiencing elevated errors for requests to Ge
+status.cloud.google.com,LmCfJJpvATwjmLQiyzX8,2024-12-19,medium,We are experiencing an issue with Vertex Gemini API in Asia
+status.cloud.google.com,ZrnSwMZAWMoLZp7SnYD2,2024-12-14,low,Mandiant Attack Surface Management is experiencing some ASM collection scan results to be delayed
+status.cloud.google.com,LTVB8heuygSuGdGFyTHC,2024-12-14,low,Mandiant Attack Surface Mangement is experiencing some ASM collection scan results to be delayed
+status.cloud.google.com,xinrPdCsMZTQ38meGFPx,2024-12-13,low,Support case comments may not be viewable in Cloud Console
+status.cloud.google.com,5eu4DwAfjMPD5HKcFW2s,2024-12-13,low,Vertex Gemini API experiencing issue globally
+status.cloud.google.com,C6iBziKqKCHx95xCV3fU,2024-12-12,medium,Vertex Gemini API serving the gemini-1.5-flash model may experience elevated latency or errors in multiregions/us
+status.cloud.google.com,fZUWJgqEUNHHdUxFnJgV,2024-12-09,medium,"Latency in Dataflow pipelines observed on Apigee Edge Public Cloud, Apigee X and Apigee Hybrid"
+status.cloud.google.com,LztMRFrCwWofMbzRENLW,2024-12-09,high,We are investigating elevated error rates and latency for streaming ingestion into BigQuery
+status.cloud.google.com,1VUuBpRTkmLSLytxRRk4,2024-12-09,low,Recommendation AI & Vertex AI Search for Retail are experiencing increased delays in data indexing (p90 delay was up to 
+status.cloud.google.com,RetVopiQ8rTjazXDDBLe,2024-12-06,low,Global: Data import delays detected on Vertex AI Search for Retail
+status.cloud.google.com,eEsQrpyy4PEE14RG8aHf,2024-12-04,high,We experienced elevated errors with BigQuery accessing Google Drive.
+status.cloud.google.com,RAbShrY2g3xumnKUTagr,2024-11-28,low,Vertex AI AutoML Image Users experiencing image processing issues in us-central1 and europe-west4 regions
+status.cloud.google.com,tavjNS3oTkswrNJz46de,2024-11-26,medium,Looker Studio customers may experience high latency on operations that involve Spanner read / write.
+status.cloud.google.com,Fc17BgFxqDgm1BwKBySX,2024-11-21,low,AppSheet customers using Looker connectors will be unable to connect.
+status.cloud.google.com,goRTDnNfbzZyhP9b9qGi,2024-11-18,low,Some ASM collection scan results may be delayed
+status.cloud.google.com,kDBRnSgQCPw93E8vKKat,2024-11-16,high,"Multiple GCP Products including Google Cloud Networking, Virtual Private Cloud (VPC), Cloud Load Balancing are experienc"
+status.cloud.google.com,kq8vzGmgzfjMfASCdmoV,2024-11-15,low,We are investigating reports of issues with Google Cloud Support.
+status.cloud.google.com,NEtbe4S7pMgACeuopMaZ,2024-11-15,high,Issues opening cases
+status.cloud.google.com,db3E4dVfQzxfTrhsdZLw,2024-11-13,low,An issue with Vertex Gemini API in multiple regions of Asia and America
+status.cloud.google.com,vz4bRXVxs45x33Bttboj,2024-11-11,low,Issues creating new Notification Configs for Cloud Security Command Center
+status.cloud.google.com,jEg8HrM9CUrFvWbGvDEg,2024-11-09,low,Issue with Vertex Gemini API
+status.cloud.google.com,QKjWxuxQGHHmNN1rnrp9,2024-11-08,low,Intermittent failure to create support cases
+status.cloud.google.com,KsnPoZyRWGjzePS1YHYL,2024-11-07,low,Issue with Mandiant Threat Intelligence
+status.cloud.google.com,oMxsNayyCDFD3fm6FgNE,2024-11-07,low,Chronicle Security User Interface Issue
+status.cloud.google.com,DsEwiPxaXU2QSkthu9WC,2024-11-06,low,Looker Studio users may observe increased latency
+status.cloud.google.com,Pvq1RGrACDwogEE8hcrm,2024-10-29,medium,All the impacted GCP products in australia-southeast2 have recovered.
+status.cloud.google.com,gtxYCj2223df49HggFgK,2024-10-28,medium,[Mandiant.com](http://Mandiant.com) was inaccessible globally.
+status.cloud.google.com,pDtW3Wu1cPpmSxEBK9jp,2024-10-28,low,We are investigating an issue where users may be unable to connect to Colab Enterprise runtimes.
+status.cloud.google.com,fmTFD58FDR7Qy6qq6H6U,2024-10-25,medium,Cloud Build - builds execution is degraded in us-central1
+status.cloud.google.com,f3u3SddnPVJAY1HH7GZp,2024-10-25,low,Looker Studio experiencing data request slowness or timeouts
+status.cloud.google.com,e3yQSE1ysCGjCVEn2q1h,2024-10-24,high,Multiple GCP services impacted in the europe-west3-c zone
+status.cloud.google.com,2GcJSJ2mZp3xw91PbJ87,2024-10-22,medium,Large Vertex Model Garden Deployment may experience failures.
+status.cloud.google.com,cyHovCjtDs1RPbZAKsme,2024-10-17,medium,Case creation may fail intermittently with an error
+status.cloud.google.com,RAGcW4N9jHRkrAjnX2v7,2024-10-16,high,Multiple GCP products impacted in us-west2 region / us-west2-a zone
+status.cloud.google.com,ZJyESmcEajZg2wMDJUg6,2024-10-09,medium,AppEngine Flexible users may be experiencing an increase in HTTP 429 responses.
+status.cloud.google.com,pLDngXyKVTqRS9isDQVB,2024-10-08,medium,App Engine customers in us-central1 one may be experiencing an increase in HTTP 429 responses.
+status.cloud.google.com,MXtAVH2fTnMpaCDx53JN,2024-10-02,medium,Customers may experience intermittent issues with support case creation
+status.cloud.google.com,dPHugwJopTYPziEJEkUm,2024-10-02,low,Mandiant Attack Surface Management customers can observe 500 Errors while navigating via GTI and welcome Screen while Lo
+status.cloud.google.com,mNDbSnPAQnJehVvXMhtU,2024-10-01,medium,Vertex AI Search seeing elevated failures for 50% of queries for SearchService
+status.cloud.google.com,sNgEmHBYpCo6WhMawN1K,2024-09-30,low,"Mandiant Attack Surface Management users may experience issues with completing scans for existing collections, and start"
+status.cloud.google.com,mCjGutE9suzWu57Yz5SD,2024-09-27,low,Google engineers are investigating an issue with VMware Engine
+status.cloud.google.com,psbdfLBYU9GR3bNNq7HT,2024-09-25,high,Mandiant Security Validation customers are unable to access the application and run jobs
+status.cloud.google.com,xFUwtQAVXD1yJ65HqK2Q,2024-09-25,low,Cloud Trace customers experienced errors in APIs to write trace spans
+status.cloud.google.com,nwLcXH4r3BUvTBxGThFK,2024-09-19,low,Chronicle Security transfer delays for some AWS SQS S3 feeds
+status.cloud.google.com,fLYHLzSGXGkLkAjc8MJG,2024-09-18,medium,Mandiant Managed Defense reported issues with ingestion of some alerts from CrowdStrike Falcon integrations.
+status.cloud.google.com,1yphfNLPHEnwJcWqwxbu,2024-09-18,high,"Increased latency and error rates observed on Google App Engine, Cloud Firestore, and Google Cloud Functions gen 1."
+status.cloud.google.com,QEXJUo5kYdf9YVXPiCCF,2024-09-11,medium,"Google Cloud Interconnect experienced elevated packet loss from Hyderabad, India edge location to regions asia-south1, a"
+status.cloud.google.com,geg8sdPSGGUW65jpyP3k,2024-09-10,high,Some VPC users experienced multiple issues in northamerica-northeast2-c zone
+status.cloud.google.com,UbJv334dXk5XQNSgiY48,2024-09-09,medium,Looker Studio users are experiencing elevated query performance when loading and accessing reports.
+status.cloud.google.com,8n96oHYYmQe1eSu2Jjqq,2024-09-09,medium,Looker Studio users are experiencing elevated query performance when loading and accessing reports.
+status.cloud.google.com,XwnegjADrYy2GHJphG2V,2024-09-07,high,Google Compute Engine (GCE) VM instance creation/ deletion and all related operations for other products were failing in
+status.cloud.google.com,r8xkgSV1f88yYMQMW7rQ,2024-09-04,low,GCVE and Hybrid Connectivity experienced intermittent connectivity issues in the us-central1 region.
+status.cloud.google.com,twcreT5UAMxRTKm7Y4Q9,2024-09-04,medium,Global: Multiple Cloud Products Experiencing Deployment Failures
+status.cloud.google.com,P2BoQyyvz9BBoBy468Up,2024-09-04,low,This issue is believed to be affecting a very small number of projects and our Engineering Team is working on it. If you
+status.cloud.google.com,7rczP2PdT9JYwUTM7M3N,2024-09-04,low,Virtual Private Cloud (VPC) customers located in us-central1 may observe an issue with VPC Service Controls for newly cr
+status.cloud.google.com,6ef7vnUADHsLTd3hZ3qr,2024-08-27,low,Slowness in the UDM search queries and delayed rule detections in europe multiregion.
+status.cloud.google.com,S1wLm4qJBZNcxmsUzT8F,2024-08-16,low,Vertex AI custom training jobs failing if using more than 2GB ephemeral storage
+status.cloud.google.com,ir7Ua1Pjadt25VpX3iM2,2024-08-16,low,Multiple Chronicle SIEM operations might be delayed/not working
+status.cloud.google.com,copWKWyn12YXQHtd2q2b,2024-08-15,low,Cluster creation and update operations may fail in Google Distributed Cloud Edge
+status.cloud.google.com,ETJGhvY9Xaktw7tgi8dF,2024-08-12,high,"[Cloud CDN, Cloud Load Balancing, Hybrid Connectivity] elevated latency in the UK (europe-west2)"
+status.cloud.google.com,Z3aJkFKzZWRHSVYDxMaH,2024-08-08,medium,Vertex AI Online Prediction experiencing elevated 500 errors for Claude Sonnet 3.5 and Opus models in us-east5
+status.cloud.google.com,yGuzk2nmNTiQsE9emSJQ,2024-08-07,low,Cloud TPU Service Activation is impacted.
+status.cloud.google.com,n71AYyDXgDVjZubZo8wu,2024-08-03,high,Multiple product outage in europe-west9-a
+status.cloud.google.com,pWkD2xmKoUBiFrvHS8h8,2024-08-02,low,Customers using AutoML translations may experience high latency and 'resource exhausted' failures.
+status.cloud.google.com,XUq643xVy4pEEmPziyqh,2024-07-30,low,Private Cloud Certificate’s renewal (DigiCert)
+status.cloud.google.com,ueutwY19MFNTod5YVR9D,2024-07-26,high,Persistent Disk (PD) is experiencing issues with disk delete and update operations in turn affecting other disk related 
+status.cloud.google.com,9mHC9Da7hWZVCBvcTBnB,2024-07-25,medium,Google Cloud VMware Engine landing page experienced degradation.
+status.cloud.google.com,DK3LfKowzJPpZq4Q9YqP,2024-07-19,low,Windows VMs using CrowdStrike are crashing.
+status.cloud.google.com,YJGAoyHYqtitwVrTodpq,2024-07-16,low,[Chronicle Security] Detection page may not be loading
+status.cloud.google.com,ERzzrJqeGR2GCW51XKFv,2024-07-15,high,us-central1: Elevated Errors and Degraded Query Performance with Monitoring Metrics
+status.cloud.google.com,rAMBfHu5PBBeBdaV2h7X,2024-07-11,low,BigQuery is experiencing issues with reported storage costs and charges globally.
+status.cloud.google.com,6SCpW417YmwFN2Cq8ogN,2024-07-10,low,Elevated latency within Cloud Storage for Firebase in europe-west
+status.cloud.google.com,pyetBPMqQtz1kjNr6zpo,2024-07-09,low,Cloud Security Command Center dashboard findings state data refresh issue.
+status.cloud.google.com,MzARofVtutSd2HB5vmkT,2024-07-09,medium,reCAPTCHA Enterprise elevated error rate issue
+status.cloud.google.com,zTvGnF41WTz3HdzHW9oD,2024-07-03,low,Customers may have experienced issues with connectivity between their GCVE VMWare engine deployment in us-central1 and t
+status.cloud.google.com,PZYkGeBDHSgR9g5y8FT3,2024-07-02,low,Chronicle Security: Increased Latency and Normalization Delays
+status.cloud.google.com,PHewUhYs2f3a4rLUaBpt,2024-07-01,low,Looker Studio: MySQL Connections Failing Globally
+status.cloud.google.com,AzZsSSbjftiaL9wgriAh,2024-06-27,low,Issue related to the ‘Detection List’ page not displaying Detections
+status.cloud.google.com,jdwDkmcgpJgKhD96Rs7J,2024-06-26,low,Apigee Edge Public Cloud Errors in us-west2
+status.cloud.google.com,5NgKqCMjjZzMrYuJk73x,2024-06-26,low,Apigee Edge Public Cloud customers may see missing audit logs starting from 22nd June 2024 globally.
+status.cloud.google.com,eRgqHQLkbb87LA13Z9wB,2024-06-26,medium,This incident is being merged with an existing incident. All future updates will be provided there: https://status.cloud
+status.cloud.google.com,hTx18xZFMjkbrtJkKmdd,2024-06-26,low,Apigee Edge Public Cloud customers may see missing audit logs starting from 22nd June 2024 globally.
+status.cloud.google.com,HE1SjabbQsBp9eGukpgd,2024-06-26,low,Chronicle Security is experiencing Risk Analytics issue in multiregion/us
+status.cloud.google.com,PtQCvMMdqsRLZLbdC11p,2024-06-25,medium,Chronicle Security is experiencing a service degradation with multiple features in the US/multiregion.
+status.cloud.google.com,DabTxrTX98aUjxfNMLKc,2024-06-25,low,Google Vertex AI Search customers may experience some latency and resource exhausted error
+status.cloud.google.com,WSKmKxSuwQ93C1WcQ3h3,2024-06-25,low,Storage Transfer service experienced issues with creating transfer receipts.
+status.cloud.google.com,yDVzvMtWooZJGPDc3wZ8,2024-06-20,medium,Google Data Catalog customer may experience availability issues.
+status.cloud.google.com,zmxVZmu3Kuk5MDnYyUpd,2024-06-13,medium,"Chronicle Security is experiencing delays with BigQuery exports, Multi event rules, and Normalization in US multi-region"
+status.cloud.google.com,HcNDMn4YeG57exykghT7,2024-06-12,medium,"Vertex AI Online Prediction, Dialogflow CX, and Agent Assist are experiencing elevated error rates in multiple regions."
+status.cloud.google.com,hAHmS7WwWk83e4ZQ5XUi,2024-06-11,high,Issue with BigQuery Streaming API and Cloud Logging in US Multiregion
+status.cloud.google.com,chEUMpNnBDBeMD8cy533,2024-06-10,low,Multi Region US : High normalization / parsing delay in the US region
+status.cloud.google.com,RAwbQ9t1TVg9ZxC62iuk,2024-06-07,medium,Issue with Google Cloud VMWare Engine Private Cloud Provisioning.
+status.cloud.google.com,eeym8FntbT9cyvr8Jv5f,2024-06-07,medium,"Dialogflow CX, and Agent Assist are experiencing elevated error rates and time outs with Generative features in multiple"
+status.cloud.google.com,tJSctv9JBC8tdGCty6T9,2024-06-06,medium,Apigee Edge customers may observe 5xx errors in us-central1 region
+status.cloud.google.com,Hrepehs4bLtgxEefSzSw,2024-06-04,high,Google Cloud Shell - Connectivity Issues
+status.cloud.google.com,RUuXnDMJ8umNQMFqHpa7,2024-06-04,medium,Google Cloud Task and Cloud Scheduler are experiencing elevated errors while executing the task APIs in the us-central1 
+status.cloud.google.com,8L8sTkLJ4ZQ3Ro9t9mcS,2024-06-03,low,Google Distributed Cloud Edge: We are seeing issues with management traffic between GDC Connected Zones and Google.
+status.cloud.google.com,BuY95M3s4h7KVrEsTKTe,2024-06-03,medium,We've received a report of an issue with Spectrum Access System.
+status.cloud.google.com,AzpZZehsqqWatRGVqnvN,2024-05-29,low,Regional outage in northamerica-northeast1 and us-west4 for Google Cloud Netapp Volumes
+status.cloud.google.com,kfPPiGH2SorcnAeB1UyH,2024-05-28,low,Some Google Cloud NetApp Volume customers experiencing UI errors
+status.cloud.google.com,ncjBLad658bKo25mRPS1,2024-05-24,low,Failure in loading of one of the pages in Chronicle Security.
+status.cloud.google.com,g1qS6Fj8LihRWYQmCjDJ,2024-05-24,medium,EdgeContainer API cannot create and upgrade clusters
+status.cloud.google.com,ucDmnkU6HncGBiXCYFp4,2024-05-24,low,GCP Support Case Creation failure
+status.cloud.google.com,qNhiGBTnMwW5L1iX6rbY,2024-05-22,low,"[Vertex AI Search] structData may not be returned for some documents in multi regions: EU, US and also Globally"
+status.cloud.google.com,cHcPpKJUMW1LReqkJmvT,2024-05-22,low,Redirect errors for customers in multiple regions while using Chronicle Security
+status.cloud.google.com,fbQKxdKPwfW2KEitwv2K,2024-05-18,low,Increased latency for create task calls in us-east1 for Google Cloud Tasks
+status.cloud.google.com,4h6FaocYdygFkaAU6xZS,2024-05-17,low,Increased latency for create task calls in us-east1 for Google Cloud Tasks
+status.cloud.google.com,xVSEV3kVaJBmS7SZbnre,2024-05-16,high,Multiple cloud products are experiencing network connectivity issues. New instances of several cloud products will come 
+status.cloud.google.com,j6rYCkFSaV4ZCzNtYgnM,2024-05-10,low,Chronicle Security: Issues Viewing Curated Rules (and Curated Detections)
+status.cloud.google.com,8cY8jdUpEGGbsSMSQk7J,2025-07-18,medium,We are investigating elevated error rates with multiple products in us-east1
+status.cloud.google.com,ow5i3PPK96RduMcb1SsW,2025-06-12,high,Multiple GCP products are experiencing Service issues.
+status.cloud.google.com,SXRPpPwx2RZ5VHjTwFLx,2025-05-20,medium,Google Compute Engine (GCE) issue impacting multiple dependent GCP services across zones
+status.cloud.google.com,3BvH3LVGcupoYqV6F4Nw,2026-07-15,medium,"Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing"
+status.cloud.google.com,T8gmtofFSTGT5tbhyciF,2026-07-14,medium,Google Cloud VMware Engine (GCVE) Stretched Cluster customers are experiencing zonal outages impacting network connectiv
+status.cloud.google.com,5fGQt4VbkDnr3Yp8PXPr,2026-06-05,medium,"Network traffic to Google Cloud originating from Delhi, Chennai, Mumbai and surrounding areas is experiencing intermitte"
+status.cloud.google.com,41E5S3mkTGDfkZuJZH5k,2026-02-27,low,Vertex AI Gemini API customers experienced increased error rates when accessing the global endpoint.
+status.cloud.google.com,mSFVt6PiP557bjRyYsut,2026-10-08,medium,Google Cloud Storage customers are experiencing elevated latencies and error rates when performing upload or write opera
+status.cloud.google.com,J5ia5t9p3g9Q5Wi7r8Ev,2026-09-01,medium,Multiple products in us-central1-b are experiencing network service degradation.
+status.cloud.google.com,utF3FMFdQfwBzJcGG6vf,2026-08-20,high,"We are investigating an issue where customers may experience timeouts, service degradations, errors, and elevated latenc"
